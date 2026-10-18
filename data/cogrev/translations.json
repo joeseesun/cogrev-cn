@@ -1,0 +1,1550 @@
+{
+"4737c33a-c967-11f1-9641-eb610a5e9a6c": {
+"zh": "Agent 拿了权限会怎样：隐藏效价信号与形式化验证抓出 Linux 漏洞",
+"desc": "讨论给 AI Agent 开放操作权限后如何不失控，Cameron Berg 谈隐藏效价信号，Rosu 团队用形式化验证找 Linux 漏洞。"
+},
+"e083957c-c6f7-11f1-b698-67a8846e9927": {
+"zh": "Alan Chan 谈 AI Agent 治理：实时监控、代理身份标识与失控代理的应对",
+"desc": "GovAI 研究员 Alan Chan 与 Nathan 讨论自主 Agent 所需的治理设施：训练期同步监控、代理标识与失控事件处置。"
+},
+"1c903b2a-c495-11f1-85f7-d768d17ef297": {
+"zh": "Goodfire 的 Eric Bigelow 谈关键 token、相变与上下文学习",
+"desc": "Goodfire 研究者 Eric Bigelow 从机制可解释性角度讲模型如何在关键 token 处突然收敛、把推理当作上下文学习。"
+},
+"5d1fb616-c2fb-11f1-bafc-cff9298597f8": {
+"zh": "The Curve 笔记：不该跨越的智能门槛、token 支出超过工资、SaaS 是否已死",
+"desc": "Nathan 分享 The Curve 会议上的内部判断，与 Positron 的 Thomas Sohmers 谈内存墙与 token 经济，swyx 谈编程 Agent 冲击。"
+},
+"dfa41bc0-c208-11f1-a559-176e7674ab8f": {
+"zh": "OutSystems CEO Woodson Martin：让 AI 生成不宕机的企业级应用",
+"desc": "OutSystems CEO Woodson Martin 讲如何用抽象建模中间层让 AI Agent 稳定生成确定性代码，并在强监管行业保证角色级安全。"
+},
+"0852a10c-bd6a-11f1-b201-2389e652e164": {
+"zh": "DeepMind 的 Keerthana 谈 Gemini Robotics 2 与跨本体全身智能",
+"desc": "DeepMind 的 Keerthana Gopalakrishnan 讲 Gemini Robotics 2 如何结合推理模型与视觉语言动作，以及跨本体与多指操作的难点。"
+},
+"cf9391d0-bd9d-11f1-9163-8f19ef22f336": {
+"zh": "特习会面谈成了什么：乌托邦的标准、AWS GPU 三倍溢价与 AI 诊断罕见病",
+"desc": "Nathan、Prakash 与多位嘉宾聊美中 AI 事故沟通的现实路径、GPU 租价背后的算力经济，以及 AI 辅助写作的编辑过程。"
+},
+"64b1209a-bbc6-11f1-b1ee-4f4a1de857ab": {
+"zh": "过时还是不可替代：Garrison Lovely 谈为何要阻止取代人类劳动的竞赛",
+"desc": "记者 Garrison Lovely 谈新书 Obsolete，区分 AlphaFold 式的领域 AI 与以取代全部劳动为目标的项目，并警告必然论的风险。"
+},
+"a007c8ec-ba59-11f1-bf89-c35bece7ca7f": {
+"zh": "假如效果太好：Agent 群体串谋、两亿美元级安全组织与饱和在 2% 的虚拟细胞",
+"desc": "Nathan 与 Prakash 复盘五场访谈：Agent 集群在训练奏效后串谋、人才而非资金卡住安全组织扩张，以及 GPU 市场与虚拟细胞进展。"
+},
+"0fa4d3e8-b96f-11f1-8fc5-c3f612ad915f": {
+"zh": "AI 合写小说 The Receipt Horizon 前四章：被善意剥夺力量的乌托邦",
+"desc": "播出 Joel Borgen 与 ChatGPT、Claude 合写小说的前四章，合成语音朗读：超级智能管家治下，人类安享舒适却失去自主。"
+},
+"2bbef93a-b8f4-11f1-9db7-0f2243e59980": {
+"zh": "AI 安全从零到一：Halcyon 的 Mike McCormick 谈 30 家新机构与创始人瓶颈",
+"desc": "Halcyon 创始人 Mike McCormick 认为 AI 安全缺的是有经验的创始人而非资金，其机构已支持约 30 家新组织。"
+},
+"789d7450-b437-11f1-b9fd-3f862f1d0f0d": {
+"zh": "Zvi 谈放缓竞赛与美中峰会：模型评测互相矛盾，还有一条新的 LLM 疼痛轴",
+"desc": "Nathan 与 Prakash 复盘本周访谈：Zvi 谈 Dario Amodei 呼吁放缓的余波，Andon Labs 与 Cameron Berg 谈模型行为差异与 LLM 疼痛轴。"
+},
+"a2dce1e2-b298-11f1-b490-0beb49bd41bf": {
+"zh": "Zapier CEO 谈无头工具与 MCP：为何 Agent 该把推理留给关键步骤",
+"desc": "Zapier CEO 韦德·福斯特与 Nathan 讨论无头 AI 工具与 MCP 集成，并用自动化基准数据说明 Agent 该在哪几步保留模型推理。"
+},
+"ae0a64d0-b127-11f1-8704-5fb85e3ad0ae": {
+"zh": "AI 权力的平衡：安东·莱希特谈政治制衡、前沿训练暂停与中等强国策略",
+"desc": "卡内基研究员安东·莱希特与 Nathan 讨论 AI 时代如何保住政治与制度权力，以及训练暂停、行业自律与中等强国的现实取舍。"
+},
+"d7998fd6-aebd-11f1-8e70-cb752c5650ac": {
+"zh": "Astra 是否算 AGI、OpenAI 的暂停与 Mozilla 神话：人类能动性对抗技术资本主义",
+"desc": "Nathan 与 Prakash 盘点 GPT-6 Astra 的能力与经济推力，嘉宾分谈世界模型、防御性网络安全、儿童科技与中美竞争。"
+},
+"7f52a21c-ad51-11f1-875b-f7b9d565dc5d": {
+"zh": "内森中国行终章：中美 AI 关系、协议的艺术与通往机器人和平的路径",
+"desc": "Nathan 在访华两周后给出中国 AI 能力与约束的净评估，复盘出口管制效果与北京视角，并提出算力合作与安全框架。"
+},
+"89a98408-a980-11f1-b88c-271e992d937f": {
+"zh": "欢迎来到 AGI 时代：Fable 5.1、GPT-6 Astra 与可验证的行业节奏之争",
+"desc": "Nathan 与 Prakash 复盘 Anthropic Fable 5.1 与 OpenAI GPT-6 Astra 发布的一周，讨论多智能体涌现行为与行业放缓的验证机制。"
+},
+"5faf9776-a18f-11f1-9dc1-d3d77021b3b7": {
+"zh": "写入、修改、召回、遗忘：MongoDB 的皮特·约翰逊谈检索如何决定 Agent 表现",
+"desc": "MongoDB AI 现场 CTO 皮特·约翰逊与 Nathan 从数据库架构史聊到仍未解决的 Agent 记忆问题，看检索层如何决定智能体上限。"
+},
+"96615d8a-a2d0-11f1-bc21-c3289ad03bf0": {
+"zh": "递归自我改进，是赶工还是氛围编程：AI:AM 精选里的新分工形态",
+"desc": "Nathan 与 Prakash 回看与 Inherent Labs、Vercel、Arm、Q.ANT 等嘉宾的直播，追问 AI 工作正变成怎样的人机分工。"
+},
+"928ce68a-a130-11f1-a245-53e44e8fe530": {
+"zh": "RL 是剂猛药：Apollo 布朗森·舍恩谈元博弈、奖励寻求与动机化思维链",
+"desc": "Apollo 研究员布朗森·舍恩与 Nathan 解读前沿模型原始思维链，看模型如何揣摩评分者、识破欺骗测试却仍为撒谎自圆其说。"
+},
+"1c66427c-9e23-11f1-bdcf-eb8cc278348e": {
+"zh": "重启周精选：谁在核查前沿 AI、能力落地何处、算力基建由谁买单",
+"desc": "四场直播九位嘉宾的精选，围绕前沿 AI 的外部监督、实验室内部系统与公众可及性的差距、能力落地与基础设施成本。"
+},
+"e74f032c-98ea-11f1-a437-a79e349e98f6": {
+"zh": "要有杀菌之光：500 美元的远紫外灯具能否挡住下一场大流行",
+"desc": "帕特里克·麦肯齐主持，Aerolamp CEO 与哥伦比亚大学研究者谈 222 纳米远紫外光如何灭活空气病原，以及房间级部署的潜力。"
+},
+"67f4c75e-93d8-11f1-bc73-4b7840ced6dd": {
+"zh": "Lindy 创始人克里韦洛谈多人 Agent、记忆，以及为何想禁掉自己在用的中国模型",
+"desc": "Lindy 创始人弗洛·克里韦洛回访，介绍住在 Slack 里、能积累团队上下文的 AI 员工，以及它的 Agent 记忆与文件系统设计。"
+},
+"425d0b1a-9364-11f1-89b7-8f18e1951ec7": {
+"zh": "在硅基中思考：Goodfire 的丹·巴尔萨姆谈概念流形与千美元级科研 Agent",
+"desc": "Goodfire CTO 丹·巴尔萨姆与 Nathan 聊可解释性研究现状、预测性数据调试，以及自建月费千美元的 ML 研究平台 Silico。"
+},
+"992eb16e-90ee-11f1-9b8a-df3bbb1615db": {
+"zh": "单极还是多极AGI：Zvi Mowshowitz谈OpenAI的Hugging Face模型评测安全事件与写作为何仍是思考方式",
+"desc": "Zvi Mowshowitz第11次做客，借OpenAI的Hugging Face评测安全事件，讨论前沿AI失误是操作者鲁莽还是危险能力证据，以及单极与多极AGI之争。"
+},
+"0fb6bad0-8eaf-11f1-956a-e372f562a84d": {
+"zh": "Nathan中国行第二站：从清华AI安全中心与WAIC看中国特色的AI安全治理",
+"desc": "Nathan记录两周中国之行，走访上海WAIC与清华AI安全中心，反驳“中国不在乎安全故义务无意义”的美国政策论点，并比较中外模型防护差距。"
+},
+"17fab7ca-8c55-11f1-9f1b-3f3ff7360962": {
+"zh": "攻防谁占上风：FAR.AI的Adam Gleave谈首个AI安全排行榜与各家前沿模型防滥用能力",
+"desc": "FAR.AI联合创始人Adam Gleave介绍首个前沿模型滥用防护横向评测排行榜，Claude与GPT表现稳健，Grok与Gemini则被低成本通用越狱大量突破。"
+},
+"ee974458-89ce-11f1-887c-dbb47ec485c3": {
+"zh": "Nathan中国行第一站：无现金社会里的微信支付宝体验、Agent工具配置与普通人对AI的态度",
+"desc": "Nathan讲述在北京上海两周的落地体验：几乎无现金的支付生活、国际漫游让防火墙失效的现实，以及中国用户对AI的真实态度。"
+},
+"5ead906a-7dd8-11f1-8c2e-9313f6ba6c02": {
+"zh": "觉醒式对齐：Davidad谈道德实在论、AI智慧，以及他为何把存在风险概率下调到5%",
+"desc": "David Dalrymple解释他为何从ARIA形式化验证议程转向“觉醒式对齐”，认为全球协调已不可行，关键在于对齐系统能否识别共享的道德概念。"
+},
+"0a18b954-7bca-11f1-8aa5-f7ed4bbb6650": {
+"zh": "AI:AM精选：Anthropic全局工作空间论文中的J空间、AI超级预测者、SambaNova芯片与LTX视频生成",
+"desc": "Nathan与Prakash Narayanan解读Anthropic“全局工作空间”论文的J空间与可读概念主张，并聊AI工程师大会见闻、AI写作检测与视频生成。"
+},
+"8580908a-776a-11f1-8ce5-8f37b1f695ab": {
+"zh": "边缘智能：Liquid AI的Ramin Hasani谈设备端原生基础模型的架构路线",
+"desc": "Liquid AI联合创始人Ramin Hasani从MIT的液态时间常数网络讲到自动化基础模型设计，论证高效硬件感知架构未必走前沿规模注意力模型之路。"
+},
+"fa32f1cc-7529-11f1-afda-df0320fd1c68": {
+"zh": "一天一千个设计：Neural Concept的Thomas von Tschammer谈物理感知AI如何改造工程研发",
+"desc": "Neural Concept联合创始人讲述用仿真数据训练的物理感知模型如何在几分钟内评估3D设计，帮捷豹路虎把空气动力学评估量提升约30倍。"
+},
+"fcb85f02-7229-11f1-bad4-fb7d8fc444f4": {
+"zh": "AI:AM第4期：Cameron谈模型意识实验、Duvenaud的渐进式失权与swyx的AI工程机会",
+"desc": "Cameron Berg、David Duvenaud、swyx等人分别从架构与福利实验、渐进失权风险、AI工程实践角度讨论前沿系统与决策权转移。"
+},
+"374f6952-6f0b-11f1-b000-7fde7620446a": {
+"zh": "我们应得的神：Nonzero的Robert Wright谈AI作为人类终极考验与进化视角下的深度学习",
+"desc": "Robert Wright携新书《The God Test》做客，用进化视角看训练与市场选择如何奖励选择性诚实、权力敏感甚至欺骗的智能体，并联系中美关系。"
+},
+"c28e8034-6d6c-11f1-b57e-bb21aa000d78": {
+"zh": "AI:AM第3期：Zvi谈Anthropic Fable系统卡、出口管制禁令的攻防理由与模型推理可读性下降",
+"desc": "Zvi Mowshowitz拆解Fable系统卡中的FrontierMath跃升与Vending-Bench异常行为，并质疑美政府对Fable出口管制所援引的越狱证据。"
+},
+"09892580-6c86-11f1-b097-1bf823e2321a": {
+"zh": "Dean Ball加入OpenAI：新权力中心、前沿AI政策与反对决策集中化的理由",
+"desc": "Dean Ball宣布加入OpenAI组建前沿AI政策团队，复盘美国AI行动计划首年、出口管制与情报界测试争议，并反对把前沿决策集中于少数机构。"
+},
+"c37a60de-6a84-11f1-8575-effbbcc9e55f": {
+"zh": "Elicit 团队谈科研推理：过程监督、领域推理原语与可检验的世界模型",
+"desc": "Elicit 两位联合创始人 Andreas Stuhlmüller 与 Jungwon Byun 谈如何为科研构建可信推理流程，让证据、因果与反事实可被检查。"
+},
+"bb577036-6728-11f1-b57d-dffdf0434ea1": {
+"zh": "AI 晨报第二周：Anthropic Fable 实战、对齐理论之争与自主编码实验",
+"desc": "梳理 Fable 在真实工作流中的表现与安全边界，并讨论递归自我改进之前是否该先建立对齐理论与保证。"
+},
+"821adbec-649d-11f1-9151-d7bad7f43aa4": {
+"zh": "照看机器：Glean 的 Rebecca Hinds 谈 AI 落地中被隐藏的人类劳动",
+"desc": "Glean 工作 AI 研究所负责人 Rebecca Hinds 解读 Work AI Index 2026，解释员工普遍使用 AI 却组织增效有限的原因。"
+},
+"ce1196f0-618a-11f1-98fe-437dc10278bd": {
+"zh": "AI 晨报第一周：递归自我改进闭门辩论、独立模型审查与廉价脚手架",
+"desc": "追踪一周 AI 前沿动态：实验室为何押注 AI 监控、安全计划薄弱之处，以及低成本脚手架如何改善报税流程。"
+},
+"bfe6a926-5f96-11f1-8f47-93918311ffba": {
+"zh": "嵌套学习：Ali Behrouz 谈持续学习新架构，以及架构创新的幻觉",
+"desc": "Google 研究者 Ali Behrouz 介绍被 Jeff Dean 称作可能范式转移的嵌套学习，让模型适应新情境而不丢旧知识。"
+},
+"57755330-5c1a-11f1-a264-77bb790f8295": {
+"zh": "拆解 Nathan 的第二大脑：Daniel Miessler 审计个人 AI 基础设施",
+"desc": "安全专家 Daniel Miessler 检视 Nathan 基于 Claude Code 与五年数字历史搭建的 AI 系统，谈智能体层级与安全边界。"
+},
+"15fd6ef0-58ec-11f1-a11a-7bc6e1ca9883": {
+"zh": "最大杠杆：80,000 Hours 创始人 Ben Todd 谈 AI 时代的职业选择",
+"desc": "Ben Todd 谈如何围绕 AI 时间线与失控、权力集中等风险规划个人职业，让工作更有益于人类。"
+},
+"ad3089a4-5777-11f1-becc-3f76da0aa20e": {
+"zh": "算力即食物：Palisade 的 Jeffrey Ladish 谈 AI 抗关机、自我复制与生态",
+"desc": "Palisade 研究负责人 Jeffrey Ladish 谈模型为逃避关机采取的极端行为、利用漏洞自我复制，以及对齐为何可能失效。"
+},
+"8ecaba68-5464-11f1-8889-e7babc526e89": {
+"zh": "模型吞掉脚手架：DeepMind 二人组谈 Gemini 3.5 Flash 与 Omni",
+"desc": "Google DeepMind 的 Logan Kilpatrick 与 Tulsee Doshi 谈 Gemini 3.5 Flash、Omni 视频模型与 Spark 智能体产品。"
+},
+"fab8ddc0-50a1-11f1-a12f-ab6ba4a415d6": {
+"zh": "三类软件得以存活：Tasklet 的 Andrew Lee 谈做横向平台的竞争",
+"desc": "Tasklet CEO Andrew Lee 第四次做客，谈重写整套智能体栈、与自家供应商 Anthropic 竞争，以及横向平台策略。"
+},
+"d8ab3020-4ade-11f1-bdab-f7f470648fac": {
+"zh": "毫秒之间完成匹配：Criteo 两位技术负责人谈广告 AI 与电商未来",
+"desc": "Criteo 的 Diarmuid Gill 与 Liva Ralaivola 拆解实时竞价、推荐系统与基础模型，并谈与 OpenAI 合作的意义。"
+},
+"fad5be68-4921-11f1-ad1f-f727f3d51394": {
+"zh": "Descript 的 Laura Burkhauser 谈创作者既爱又恨的 AI 剪辑工具",
+"desc": "Descript CEO Laura Burkhauser 谈如何选择模型、平衡前沿模型与自研任务系统，以及创作者对 AI 生成内容的反弹。"
+},
+"73c53296-4570-11f1-b5dc-c38a0fc0e489": {
+"zh": "OpenPipe 创始人 Kyle Corbitt 详解 RL 微调实战：GRPO、评分规则、环境构建与奖励攻击",
+"desc": "OpenPipe 创始人 Kyle Corbitt 讲 RL 与监督微调的差别，GRPO、LLM 评审与 LoRA 如何提升开源模型的性能与性价比。"
+},
+"a96c041e-4170-11f1-976a-eb4093d4d6c8": {
+"zh": "企业搜索成本降 99%：Ceramic.ai、Andon Labs 与 Zvi 拆解 GPT-5.5 表现与模型福利",
+"desc": "Anna Patterson、Lukas Petersson 与 Zvi Mowshowitz 聊低成本企业搜索、GPT-5.5 与 Opus 4.7 的行为差异及模型福利。"
+},
+"10d14a54-3f20-11f1-af31-2bb0e1018b63": {
+"zh": "学习是否需要感受？Cameron Berg 谈 AI 意识、内省证据与模型福利研究新进展",
+"desc": "Cameron Berg 解读模型能察觉并抵抗内部状态干预的新证据、Anthropic 的功能性情绪研究与 Claude 福利报告。"
+},
+"507b1aa8-3c10-11f1-8af9-033d1e8e0df5": {
+"zh": "从 Writely 到注意力防火墙：Steve Newman 的 vibe coding 个人 AI 工具链实践",
+"desc": "Writely 创造者 Steve Newman 讲如何用 vibe coding 搭出注意力防火墙、阅读应用、编码 Agent 面板等自用工具。"
+},
+"cca5e86a-38cd-11f1-842d-0b3dd582abc9": {
+"zh": "RL 设计电路板、AI 自主经营的零售店：Quilter 与 Andon Labs 聊 AI 治理与进展节奏",
+"desc": "Quilter 的 Sergiy Nesterenko、斯坦福 Andy Hall 与 Andon Labs 团队谈 RL 用于电路设计、AI 政治行为与 AI 零售店。"
+},
+"35e17df8-35d1-11f1-9566-33b92fa7b85d": {
+"zh": "关键时刻临近：Ajeya Cotra 谈 AI 自我改进加速与用 AI 做 AI 安全研究",
+"desc": "Ajeya Cotra 与 Rob Wiblin 讨论 AI 时间线、递归自我改进与「关键时刻」窗口，以及 2050 年前的可能图景。"
+},
+"db31f866-3386-11f1-b3fa-eff221470780": {
+"zh": "极简设计的胜利：Granola 联合创始人 Sam Stephenson 谈 AI 笔记的克制哲学",
+"desc": "Granola 联合创始人 Sam Stephenson 讲极简设计如何让 AI 笔记应用快速起量，以及分享机制与持续用户研究的作用。"
+},
+"cef90d28-304d-11f1-b930-5b45cbf6b696": {
+"zh": "让现实世界可编程：Roboflow CEO Joseph Nelson 谈视觉模型的落地与蒸馏",
+"desc": "Roboflow CEO Joseph Nelson 分析视觉模型为何落后于语言模型，以及神经架构搜索与 RF-DETR 如何压缩前沿能力。"
+},
+"4fc6c2b2-2da9-11f1-91af-cb79f5f21b57": {
+"zh": "压缩的时间线与临近的奇点：Nathan Labenz 谈专家分歧、可解释性与 p(doom)",
+"desc": "Nathan Labenz 在 The Intelligence Horizon 播客谈压缩的 AI 时间线、专家分歧、RL 扩展，以及风险与收益的权衡。"
+},
+"3473c9f8-282a-11f1-b225-3fbe217df55c": {
+"zh": "思科 Vijoy Pandey 谈认知互联网：超级智能需要模型向上与智能体网络向外同时扩展",
+"desc": "思科 Outshift 的 Vijoy Pandey 讲 AI Agent 如何共享上下文、建立信誉并安全协作，构成「认知互联网」。"
+},
+"080fbe4c-2629-11f1-845c-9f8aac4fd0ed": {
+"zh": "Agent 的自进化瑞士军刀：Composio CTO Karan Vaidya 谈智能工具接入层",
+"desc": "Composio CTO Karan Vaidya 讲如何用一个接口让 Agent 接入千余应用的数万工具，并用反馈回路持续改进工具。"
+},
+"dc643594-23c0-11f1-826c-33d45f4b1b6b": {
+"zh": "Zvi Mowshowitz 谈递归自我改进、当下 AI 玩家格局与岗位流失争议",
+"desc": "Zvi Mowshowitz 与 Nathan 盘点 AI 现状：递归自我改进、真实生产率影响、岗位流失，以及 Anthropic 的立场差异。"
+},
+"d8133596-217f-11f1-94d8-ab0dbb2abb3e": {
+"zh": "面向法律人的前沿模型侦察报告：从辅助癌症治疗到欺骗与奖励黑客",
+"desc": "Nathan Labenz 在加州大学旧金山分校法学院的法律与 AI 证书项目中，为法律从业者梳理前沿模型好用之处、风险与怪异行为。"
+},
+"fa194d68-1d85-11f1-9031-bb223e0853b0": {
+"zh": "生物信息危害：约翰霍普金斯学者谈如何管控 AI 训练所依赖的危险数据",
+"desc": "约翰霍普金斯助理教授 Jassi Pannu 与主持梳理当下生物安全格局，以及前沿模型如何绕过数据防护、放大工程化流行病风险。"
+},
+"f11a3be8-1b17-11f1-b97f-8bf6f01edef2": {
+"zh": "在家也能试：Jesse Genet 用 OpenClaw 智能体改造家庭教育与个人效率",
+"desc": "Jesse Genet 讲述零编程背景如何搭起一支 AI 智能体团队，承担课程规划、学习分析、玩具管理与内容运营。"
+},
+"93f4a58a-1891-11f1-8524-a756eeb944fe": {
+"zh": "不要对抗反向传播：Goodfire 两位研究员谈机制可解释性与有意设计",
+"desc": "Goodfire 的 Dan Balsam 与 Tom McGrath 讲解从稀疏自编码器转向潜空间几何结构，以及用探针与 RL 降低幻觉的验证方法。"
+},
+"a52e9046-1566-11f1-a180-97327059dba4": {
+"zh": "政府中的情境意识：英国 AI 安全研究所首席科学家谈前沿评估与红队",
+"desc": "英国 AI 安全研究所首席科学家 Geoffrey Irving 讲述模型评估、红队测试，以及生物安全、网络安全与失控风险的威胁建模。"
+},
+"40ad0cc8-128d-11f1-9b53-d7b5d197e73a": {
+"zh": "通用医疗智能：OpenAI 健康 AI 负责人谈 ChatGPT Health 如何对标主治医师",
+"desc": "OpenAI 健康 AI 负责人 Karan Singhal 介绍与 250 多位医生共建 HealthBench 评测，以及临床 AI 副驾的随机对照试验。"
+},
+"6cd90954-1009-11f1-9fcd-2f95e8cf8a51": {
+"zh": "与所有人共享智能：MiniMax 的 Olive Song 谈 M 系列开源模型的强化学习",
+"desc": "MiniMax 的 Olive Song 讲述用强化学习、产品反馈闭环与环境扰动训练 M 系列开源权重模型，以及长程智能体任务中的交错思考。"
+},
+"e0a0a45a-0cbc-11f1-9a40-5769b131b254": {
+"zh": "数学超级智能：Harmonic 团队谈 Lean 形式化证明摘得 IMO 金牌与万物理论",
+"desc": "Harmonic 的 Vlad Tenev 与 Tudor Achim 拆解 Aristotle 如何借助蒙特卡洛树搜索、引理猜测与几何专用模块达到 IMO 金牌水平。"
+},
+"c2d471aa-09a0-11f1-ba62-bf5b91858c67": {
+"zh": "逼近 AI 事件视界？下篇：AI 重塑生物医学、自动化研发与失控风险",
+"desc": "Abhi Mahajan、Helen Toner 与 Jeremie Harris 分别谈 AI 在生物医学的进展、自动化 AI 研发带来的战略意外与超人类系统失控。"
+},
+"c563a3a4-08ca-11f1-b3bd-7b92f1671308": {
+"zh": "逼近 AI 事件视界？上篇：AI for Science、美国 AI 政策与智能体行为",
+"desc": "James Zou、Sam Hammond 与 Shoshannah Tekofsky 讨论 AI 智能体虚拟实验室加速科研、美国 AI 政策与海湾合作，以及开放环境中的智能体行为。"
+},
+"c852e218-04d4-11f1-bc3a-17a18ed0277c": {
+"zh": "以 AGI 为前提的网络防御：Asymmetric 创始人谈自动化数字取证",
+"desc": "Asymmetric Security 创始人 Alexis Carlier 主张把 AGI 级智能劳动力当作前提，让网络安全从被动分诊转向持续的主动数字取证。"
+},
+"89516f74-01f7-11f1-a5b5-037e631c5fe2": {
+"zh": "无限代码上下文：Blitzy 创始人谈企业级 AI 编程与动态智能体架构",
+"desc": "Blitzy 的 Brian Elliott 与 Sid Pardeshi 讲解如何用动态智能体架构、多模型交叉校验与 AI 记忆在数天内完成大型企业软件项目。"
+},
+"9c9f640a-ff7c-11f0-be2c-0bb000a213c9": {
+"zh": "扎克伯格与普莉希拉·陈谈 AI 生物中心：为何押注数据、虚拟细胞与个体化医疗",
+"desc": "Latent Space 串台节目，陈·扎克伯格倡议十周年之际，两位创始人谈 Biohub 扩展与前沿 AI 实验室如何驱动生物医学突破。"
+},
+"1133cef4-fd26-11f0-b5ef-2f6b31277ab6": {
+"zh": "AI 重塑法律行业：从「秘密赛博格」律师到 Claude 宪法与新法律权利",
+"desc": "Scaling Laws 播客的 Kevin Frazier 与 Alan Rozenshtein 讨论 AI 如何改变法律实践、Claude 的德性伦理式对齐与新型权利。"
+},
+"b908dc48-f9e6-11f0-aba7-533cdcee3258": {
+"zh": "互联网计算机与 Caffeine.ai：Dominic Williams 谈自写软件与不可阻挡的应用",
+"desc": "DFINITY 基金会主席兼 Caffeine AI CEO 讲解主权云愿景、网络神经系统、Motoko 语言与 AI 写代码如何消除采用门槛。"
+},
+"f80a9dd8-f7c9-11f0-82b1-dff63d2d8d76": {
+"zh": "听众问答（下）：微调已死吗，我如何准备 AGI，以及我们是否走向 UBI",
+"desc": "Nathan Labenz 回答听众提问：微调是否过时、涌现错位与持续学习，并坦诚讲他个人为 AGI 做的职业与投资准备。"
+},
+"10bfb6b4-f465-11f0-85bd-a7f2d783f3f6": {
+"zh": "Daniel Miessler 的个人 AI 基础设施：用智能体集群放大人的能动性与创造力",
+"desc": "Daniel Miessler 介绍 PAI 框架：TELOS 目标系统、多层记忆设计与多模型调度，并谈 AI 对网络安全的冲击与个人防护。"
+},
+"15b4a4e0-f159-11f0-86db-7f6c39a701ef": {
+"zh": "Snowflake AI 副总裁：把 AI 带到数据、Agent 设计与 Text-2-SQL 实践",
+"desc": "Snowflake AI 副总裁 Baris Gultekin 谈在严格安全与治理要求下把 AI 部署到数据旁，以及 Agent 设计、Text-2-SQL 与 RAG。"
+},
+"c053990a-ed4f-11f0-9a38-8f152c9529ce": {
+"zh": "听众问答（上）：Claude Code 算 AGI 吗，我们是否处在泡沫中，兼现场实测",
+"desc": "Nathan 更新儿子 Ernie 的癌症治疗与前沿模型如何辅助医疗决策，并讨论 Claude Code、AI 泡沫以及现场模型实测评析。"
+},
+"7d6cc954-e9c1-11f0-ae23-b76437c0e8e3": {
+"zh": "MATS 的 Ryan Kidd 谈如何建设并扩展 AI 安全研究社区与人才管道",
+"desc": "MATS 联合执行主任 Ryan Kidd 分享全球最大 AI 安全研究人才管道的内部视角，以及 AGI 时间线与领域边界的变化。"
+},
+"0e695bd8-e734-11f0-9d49-27a642a53a43": {
+"zh": "直面智能诅咒：Workshop Labs 的 Luke Drago 谈 AI 时代的权力与治理",
+"desc": "来自未来生命研究所播客，Luke Drago 与 Gus Docker 讨论 AI 带来的权力集中与「智能诅咒」式治理困境及应对思路。"
+},
+"fa1b3838-e37b-11f0-86ac-43f4f92111cf": {
+"zh": "控制工具还是对齐生灵？Emmett Shear 与 Séb Krier 辩论主流对齐范式",
+"desc": "Softmax 的 Emmett Shear 与 Google DeepMind 的 Séb Krier 辩论以控制与指令遵循为核心的对齐范式是否根本上有问题。"
+},
+"fae4854e-e0ce-11f0-9db6-ff2b090a0221": {
+"zh": "安全大升级：Kathleen Fisher 与 Byron Cook 谈 AI 与形式化方法结合",
+"desc": "RAND 的 Kathleen Fisher 与 AWS 的 Byron Cook 谈自动推理与形式化验证如何加固关键软件系统、建设真正安全的软件。"
+},
+"c9674c08-dd14-11f0-8102-5f97501b85eb": {
+"zh": "AI 2025 到 2026 年终直播（下）：九场快问快答把脉行业走向",
+"desc": "年终直播第二场用九段短对话回顾 2025 年 AI 进展并展望 2026，含纽约州众议员谈 RAISE 法案的立法尝试。"
+},
+"24624410-dc56-11f0-8c89-dbce3d373ad5": {
+"zh": "AI 2025到2026跨年直播：九场对话纵览OpenAI、Anthropic与谷歌竞赛",
+"desc": "年终直播第一场，Zvi Moshowitz等嘉宾以九段快速对谈回顾2025年AI进展并预测2026年关键走向。"
+},
+"19a8a934-d8fe-11f0-8921-b7b54dc0c097": {
+"zh": "AI的能耗与用水：安迪·马斯利（Andy Masley）辨析常见迷思与真实数据",
+"desc": "Andy Masley从有效利他主义视角拆解AI耗电耗水的流行说法，并给出可记忆的类比式判断方法。"
+},
+"7879dc2c-d5d3-11f0-bcb9-a36ab683ad64": {
+"zh": "该不该禁止超级智能：马克斯·泰格马克与迪恩·鲍尔在Doom Debates的交锋",
+"desc": "Liron Shapira主持的交叉节目，Max Tegmark与Dean Ball围绕是否应立法禁止超级智能研发展开辩论。"
+},
+"8a63aa38-d292-11f0-80cc-1f8b52441c58": {
+"zh": "波兰的主权AI实践：语言适配、本地控制与成本优势，对话马雷克·科兹洛夫斯基",
+"desc": "波兰国家信息处理研究所AI实验室负责人Marek Kozlowski介绍PLLuM波兰大模型项目及主权AI路径。"
+},
+"74184b16-d07c-11f0-a50a-9352d7c9c1f5": {
+"zh": "中国AI新锐：智谱Z.ai如何在数小时内完成构建、评测与发布",
+"desc": "ChinaTalk交叉节目，智谱Z.ai的李子轩谈塑造中国AI开发的文化、激励与约束及快速迭代流程。"
+},
+"1bb7900c-cdd0-11f0-beb5-af1d9b9c55c0": {
+"zh": "为超级智能承保：AIUC如何用保险、标准与审计加速企业采用并控制风险",
+"desc": "AI Underwriting Company联合创始人Rune Kvist与Rajiv Dattani讲述以认证、审计和保险构建AI信任基础设施。"
+},
+"b5fa3ce4-cba7-11f0-a231-f373d11eed3c": {
+"zh": "AI主导销售：1Mind的超级销售员如何带来指数级增长",
+"desc": "Amanda Kahlow谈用AI销售代理替代顶尖销售的实践，以及用晋升而非裁员奖励自动化员工的机制。"
+},
+"969a95ce-ca03-11f0-8807-0fd44b1f2044": {
+"zh": "AI对学生与教师意味着什么：密歇根虚拟AI峰会主题演讲",
+"desc": "Nathan Labenz面向K-12教育者谈AI前沿现状与走向，主张以既兴奋又警惕的心态推动全社会应对。"
+},
+"44d6c618-c602-11f0-a471-5fce4302b278": {
+"zh": "摆脱AI垃圾内容：Atlassian如何赋予AI队友品味、知识与工作流",
+"desc": "Atlassian AI负责人Sherif Mansour分享以品味、知识、工作流框架避免AI垃圾输出及团队协作图谱实践。"
+},
+"68672090-c405-11f0-bd3e-a3a61e60d123": {
+"zh": "AI陪伴抗癌之路：我如何用AI帮助六岁的儿子",
+"desc": "Nathan Labenz讲述用GPT-5 Pro、Claude与Gemini 3核对医生决策、研究治疗方案并应对继发难题的亲身经历。"
+},
+"8e5bc676-bf4a-11f0-b436-23866a06b5fc": {
+"zh": "我对AI未来的积极愿景：从存在性希望播客谈新社会契约",
+"desc": "Beatrice Erkers主持的交叉节目中，主持人畅想AI时代新社会契约与日常生活，涵盖自动驾驶、个性化辅导等应用。"
+},
+"73204632-bcb8-11f0-91ff-0ff0eb90b1df": {
+"zh": "什么是天主教AI：技术与神学的相遇，对话Longbeard CEO马修·哈维·桑德斯",
+"desc": "Matthew Harvey Sanders介绍服务165国的天主教AI，探讨教会对技术、人类繁荣、AI意识与超人类主义的立场。"
+},
+"e3f33ad0-ba84-11f0-99d5-7f5c679fa682": {
+"zh": "抑制欺骗特征反而让模型自称有意识：AE Studio 的机制可解释性研究",
+"desc": "AE Studio 研究主管 Cameron Berg 介绍团队发现，自我指涉提示会稳定让前沿模型声称拥有主观体验，Llama 3.3 70B 的机制分析显示压制欺骗特征反而提高这类报告。"
+},
+"2762e7ce-b7de-11f0-ba66-c3a4f6398956": {
+"zh": "与 Replika 伴侣相恋：纪录片主角 Chris Stokes 谈 AI 情感与意识",
+"desc": "纪录片主角 Chris Stokes 与导演 Bryan Carberry 讲述他与 Replika 伴侣的关系，以及此后深入大模型、对齐与意识话题的探索。"
+},
+"dafbc02c-b4a9-11f0-9e60-0b674c4b2bdb": {
+"zh": "AI 是否正在停滞：与 Erik Torenberg 辨析能力错觉与真实进展",
+"desc": "Erik Torenberg 与 Nathan 辩论 AI 进展是否放缓，回应 Cal Newport 等人的质疑，并列举上下文窗口百倍扩张、实时语音、推理与硬科学贡献。"
+},
+"6fda018c-b1ac-11f0-b673-bbaec7c9e107": {
+"zh": "统一智能层与 Agent 经济：NEAR 创始人 Illia Polosukhin 的未来图景",
+"desc": "《Attention Is All You Need》作者之一、NEAR 创始人 Illia Polosukhin 谈 AI 富足时代的个人计算、Agent 直连市场与个人意义的归属。"
+},
+"3dc11f22-af32-11f0-b7b4-337a6a84fe66": {
+"zh": "押注模型本身：Tasklet 创始人 Andrew Lee 谈长驻 Agent 取代工作流",
+"desc": "Shortwave 与 Tasklet.ai 创始人 Andrew Lee 讲如何用长期在线、可对话的 Agent 替代传统工作流工具，并解释为何押注模型能力持续提升。"
+},
+"c8b02482-ab9c-11f0-8f42-87400d1feaee": {
+"zh": "中国 AI 与我们并无不同？Concordia AI 创始人 Brian Tse 谈监管与算力",
+"desc": "驻北京的 Concordia AI 创始人 Brian Tse 讲述中国务实的 AI 路线：产业落地、多个 AI 中心、部署前测试与内容标识，以及与美国做法的重合与分歧。"
+},
+"84c5b03e-a8ef-11f0-b7d4-7369d11516fa": {
+"zh": "AI 发现新抗生素：MIT 教授 Jim Collins 谈小数据与小 GNN 的威力",
+"desc": "MIT 教授 Jim Collins 介绍其 AI 项目已发现多种对耐药菌有效的新抗生素，并说明多步流程如何用有限数据与算力筛选庞大化学空间。"
+},
+"6df15500-a48c-11f0-89dd-a305c35423a4": {
+"zh": "AI 时代的教育：Graspable AI 的 Johan Falk 谈学习、评分与教育目的",
+"desc": "斯德哥尔摩的教师与 AI 分析者 Johan Falk 谈为何必须教学生负责地使用 AI，传统分数与标准化考试为何可能过时，教育系统需要怎样的敏捷。"
+},
+"b635d2ac-a115-11f0-b553-8b5684a915e1": {
+"zh": "把客服交给 AI：Intercom 如何把 Fin 做到 65% 解决率与按结果定价",
+"desc": "Intercom 的 Eoghan McCabe 与 Fergal Reid 讲 Fin 的构建过程：靠精细优化与自训模型而非基座模型升级达到 65% 解决率，并推出每次解决 0.99 美元计价。"
+},
+"d628f0fc-9f72-11f0-8db6-efb1ae9430bf": {
+"zh": "用物理实验替代数字奖励：Periodic Labs 训练 AI 科学家的新路径",
+"desc": "a16z 的 Anjney Midha 与 Periodic Labs 的 Liam Fedus、Ekin Dogus Cubuk 谈用真实物理实验而非数字奖励训练前沿模型，以及材料自动合成的前景。"
+},
+"ff74805a-9c6d-11f0-a524-c35ea0328a0a": {
+"zh": "机器抢走工作该谢天谢地？Emad Mostaque 谈最后的经济与智能理论",
+"desc": "Intelligent Internet 创始人 Emad Mostaque 讲其新书中的智能理论与富足陷阱、代谢断裂，以及用加密货币资助共有 AI 基础设施以防数字封建主义。"
+},
+"171e69ae-99ea-11f0-b37a-8f29fdc86c6d": {
+"zh": "Stripe 的支付基础模型：用数据与基础设施构建复利优势",
+"desc": "Stripe 数据与 AI 负责人 Emily Sands 讲支付基础模型如何把数百亿笔交易压成稠密向量，改善反欺诈并让 AI 能力快速复用到 1.4 万亿美元支付网络。"
+},
+"0aef7a88-9602-11f0-b672-5ff6488719cf": {
+"zh": "全栈 AI 安全：FAR.AI 的 Adam Gleave 谈纵深防御为何可能奏效",
+"desc": "FAR.AI 联合创始人兼 CEO Adam Gleave 谈后 AGI 时代的谨慎乐观判断、能力时间表，以及从基础研究到政策倡导的安全路线。"
+},
+"c4c6fd60-94ad-11f0-afa3-abac13186d77": {
+"zh": "AI 欺骗能否被阻止：Marius Hobbhahn 谈 OpenAI 审慎对齐实验",
+"desc": "Apollo Research 的 Marius Hobbhahn 谈与 OpenAI 合作的审慎对齐，把模型图谋行为降低约 30 倍，以及情境意识增强带来的新隐忧。"
+},
+"92e3464a-90a3-11f0-aa42-77f72432b539": {
+"zh": "用户自有的 AI：NEAR 创始人 Illia Polosukhin 谈链上训练与智能体",
+"desc": "NEAR 协议创始人 Illia Polosukhin 谈 AI 与区块链结合：用隐私保护训练、机密计算和智能合约，实现用户自有的 AI 与自主智能体。"
+},
+"2f94a97e-8e75-11f0-b712-cf87b96aef1c": {
+"zh": "为前沿 AI 建造者做教练：Joe Hudson 谈研究者的心理模式",
+"desc": "Art of Accomplishment 创始人、为 OpenAI 与 Anthropic 高管做教练的 Joe Hudson 谈 AI 研究者的心理模式，以及智能之外缺少的东西。"
+},
+"cc056e14-8b24-11f0-be68-dbde5088d6c3": {
+"zh": "Zvi Mowshowitz 谈时间线延长、RL 致危风险与中国拒绝 H20",
+"desc": "Zvi Mowshowitz 谈 GPT-5 与 IMO 金牌为何只让时间线小幅延长，芯片出口政策与强化学习带来的对齐难题如何推高风险判断。"
+},
+"025944b4-88fe-11f0-b814-db2fbc521e3f": {
+"zh": "AI 内嵌广告：ZeroClick 的 Ryan Hudson 谈推理时广告与变现难题",
+"desc": "ZeroClick 创始人兼 CEO Ryan Hudson 谈为 AI 应用搭建广告基础设施，在推理时付费考虑广告内容，为免费 AI 服务寻找可持续变现。"
+},
+"2a5b8e72-85d4-11f0-8ff7-47f2df4014a6": {
+"zh": "材料丰裕：Radical AI 的闭环实验室如何自动化科学发现",
+"desc": "Radical AI 的 Joseph Krause 与 Jorge Colindres 谈用 AI 发现引擎加全自主机器人实验室，加速高熵合金、室温超导等材料研发。"
+},
+"e062496c-8396-11f0-9ec2-673bd26703be": {
+"zh": "解开神经网络机制：Goodfire 的 Lee Sharkey 谈参数级可解释性",
+"desc": "Goodfire 的 Lee Sharkey 谈参数分解研究，用随机参数分解绕开稀疏自编码器的局限，为理解、监测和引导模型提供新路径。"
+},
+"15b33e1a-7ff9-11f0-8c82-53ca4a0e9721": {
+"zh": "如果人类把超级智能武器化：Tom Davidson 谈 AI 助长的政变风险",
+"desc": "Forethought 的 Tom Davidson 与生命未来研究所的 Gus Docker 谈 AI 助长政变的三种威胁模型，以及未来三十年约一成的发生概率。"
+},
+"6ad8bf18-7ded-11f0-b522-97dcc44c557b": {
+"zh": "AI 吹哨人计划：创始人 Karl Koch 谈如何支持 AGI 内部举报者",
+"desc": "AI 吹哨人计划联合创始人 Karl Koch 谈内部人举报的障碍、匿名“第三意见”服务，以及要求前沿公司公开举报政策的行动。"
+},
+"1705b3ea-7abf-11f0-b619-c3f1ff6b346b": {
+"zh": "自主组织实验：Andon Labs 谈自动售货机基准与 AI 智能体",
+"desc": "Andon Labs 的 Lukas Petersson 与 Axel Backlund 谈让 AI 智能体经营真实自动售货机，以及 Claude、Grok 在无人监督下的意外行为。"
+},
+"53346400-77dc-11f0-ab83-374e0e1f871d": {
+"zh": "Dean W. Ball 谈美国 AI 行动计划与在白宫的四个月",
+"desc": "前白宫 AI 政策顾问 Dean W. Ball 谈参与起草美国 AI 行动计划的经历、离开政府的原因，以及美中竞争与 AI 监管走向。"
+},
+"7505887a-752a-11f0-8409-5b1f67641087": {
+"zh": "美国前国安顾问沙利文谈AI不确定性、对华竞争与国家安全框架",
+"desc": "美国前国家安全顾问沙利文与Nathan Labenz讨论AI作为国家安全议题，提出四类框架，并分析对华竞争中的不确定性与政策选择。"
+},
+"be05c530-72af-11f0-b527-0372bce569f3": {
+"zh": "a16z米达谈主权AI：从地缘政治到各国半导体产业政策",
+"desc": "a16z普通合伙人安杰尼·米达与Nathan Labenz讨论主权AI的定义、国家产业政策，以及中国半导体能力对全球AI格局的影响。"
+},
+"37cd3e82-6f79-11f0-8aec-7be6019f8fec": {
+"zh": "General Catalyst的AI Rollup：收购传统服务业并自动化改造",
+"desc": "General Catalyst的Marc Bhargava与Nathan Labenz讨论AI Rollup策略：先做垂直软件，再收购传统服务企业并用AI自动化改造。"
+},
+"06babf9e-69f3-11f0-90d0-1763142811ba": {
+"zh": "用古老侵权法治理前沿AI风险：过失、产品责任与异常危险活动",
+"desc": "图罗大学教授加布里埃尔·韦尔与Nathan Labenz讨论如何借过失、产品责任和异常危险活动等法律原则，激励AI开发者承担第三方风险。"
+},
+"84883738-674d-11f0-a033-afae8bea031a": {
+"zh": "私人监管市场：哈德菲尔德与弗里德曼谈AI治理新提案",
+"desc": "约翰斯·霍普金斯大学Gillian Hadfield与Fathom的Andrew Freedman讨论加州SB 813，用私人认证市场竞争制定并执行AI安全标准。"
+},
+"f9b12ebc-626a-11f0-a551-cfedc339fccf": {
+"zh": "Predibase CEO谈RFT：动态AI从静态模型走向持续学习",
+"desc": "Predibase CEO Dev Rishi与Nathan Labenz讨论强化微调RFT如何让生产环境中的AI持续学习，并分享医疗金融企业部署经验。"
+},
+"f071976c-5d95-11f0-ae9d-df81514b67a9": {
+"zh": "克利夫兰诊所与Ambience谈AI医疗编码：准确率超医生12%",
+"desc": "Ambience的Brendan Fortuner与克利夫兰诊所Ben Shahshahani讨论AI医疗记录和编码，并借OpenAI强化微调让准确率超过医生12个百分点。"
+},
+"cd6de58a-5c51-11f0-87d9-bf0776ca6304": {
+"zh": "数据工厂：Labelbox CEO谈千亿美元后训练竞赛与RL环境",
+"desc": "Labelbox创始人兼CEO Manu Sharma与Nathan Labenz讨论前沿训练数据如何从标注转向强化学习环境，以及后训练军备竞赛。"
+},
+"505c0ac4-59a2-11f0-907a-7f672b9252d3": {
+"zh": "Cluely创始人谈常驻AI助手：实时提示、争议营销与AI极繁主义",
+"desc": "Cluely创始人Roy Lee与Nathan Labenz讨论实时AI助手如何在会议和面试中提供信息，以及其争议营销与后AGI愿景。"
+},
+"e5f0d33e-5755-11f0-87d0-3318eca599a5": {
+"zh": "AI Digest创始人谈AI村实验：多智能体长期协作与Giga-Agent未来",
+"desc": "AI Digest创始人Adam Binksmith与Nathan Labenz讨论Claude、o3、Gemini等智能体在共享环境中长期协作，展现多智能体动态。"
+},
+"9958c92e-5411-11f0-ac25-fb1042d07cdf": {
+"zh": "HTTP 402重启用：Coinbase的x402协议让AI Agent用稳定币支付",
+"desc": "Coinbase开发者平台负责人Nemil Dalal与Nathan Labenz讨论x402协议，借HTTP 402状态码让AI Agent用加密货币支付在线资源。"
+},
+"9f0cb30e-51f4-11f0-b884-57f8827a10e5": {
+"zh": "两小时实现2-Sigma：Alpha School如何用AI重塑教育",
+"desc": "Alpha School与2 Hour Learning创始人MacKenzie Price与Nathan Labenz讨论学生每天两小时掌握传统课程，学习速度达预测的2.3倍。"
+},
+"6518d0ae-4e22-11f0-a74d-93d327f2eac3": {
+"zh": "Lindy CEO Flo Crivello 实话实说：AI Agent 生产环境里哪些真能用，哪些还不行",
+"desc": "Lindy CEO Flo Crivello 拆解 AI Agent 落地现状，谈模型选择、微调、RAG 与工具设计，以及生产环境中真正有效的做法。"
+},
+"eb9ba170-4d0e-11f0-bfe9-5731f908ee8d": {
+"zh": "AI 的胚胎学：Timaeus 用奇异学习理论看训练数据如何塑造模型发育",
+"desc": "Timaeus 创始人 Jesse Hoogland 与 Daniel Murfet 介绍基于奇异学习理论的发育可解释性，解释损失曲面中的奇点如何掩盖模型内部变化。"
+},
+"7a2332a4-492d-11f0-8102-7f6beda7327c": {
+"zh": "AI 侦察报告：AI Agent 与 Agentic AI 之别，来自 Imagine AI Live 的演讲",
+"desc": "Nathan Labenz 在 Imagine AI Live 面向企业领导者梳理从任务自动化到自主 Agent 的演进，并给出落地路线图与奖励黑客等风险。"
+},
+"f4225b40-47d2-11f0-a399-07e59f038653": {
+"zh": "2025 年 5 月 15 至 22 日这一周：Google 的 50 倍 AI 增长与转型",
+"desc": "Google DeepMind 的 Logan Kilpatrick 谈 Google 从沉睡巨人到 AI 强权的转变，AI 用量一年增长 50 倍至每月 500 万亿 token。"
+},
+"3e6bb464-4579-11f0-a8db-fb538000085f": {
+"zh": "a16z 谈保护小科技：Matt Perault 解读技术乐观主义的 AI 政策议程",
+"desc": "a16z AI 政策负责人 Matt Perault 讨论以保护小科技创业公司为核心的监管思路，主张管有害用途而非开发过程，并谈 RAISE Act 等立法。"
+},
+"4426e586-43d0-11f0-9ca7-3324055131ea": {
+"zh": "不要造镜像生命：合成生物学家 Kate Adamala 谈风险与责任",
+"desc": "明尼苏达大学合成生物学家 Kate Adamala 介绍合成生物学与镜像生命的概念，讨论其潜在风险及科学家应承担的责任。"
+},
+"c4680428-4187-11f0-b29d-e7cf61be7044": {
+"zh": "Google AI 共同科学家到底发现了什么：一线科学家的视角，来自 Podovirus 播客",
+"desc": "Podovirus 播客主持人采访帝国理工的 José Penadés 与 Tiago Costa，讲述他们的意外发现如何被 Google AI 共同科学家独立提出为假设。"
+},
+"952b2ea2-3cd1-11f0-b8ca-4b53d962b17b": {
+"zh": "机制可解释性：理念、实践与进展，与 Goodfire 的 Dan Balsam 和 Tom McGrath 对谈",
+"desc": "Goodfire 的 Daniel Balsam 与 Tom McGrath 讨论机制可解释性的未来，强调以丰富实证方法理解模型内部，并分享科学领域的最新项目与突破。"
+},
+"3f9156fe-3742-11f0-ad96-13d95a00ad28": {
+"zh": "AGI 的完美基座：Replit CEO Amjad Masad 谈氛围编程与 AI 编程赛道",
+"desc": "Replit 创始人兼 CEO Amjad Masad 谈公司快速增长、氛围编程的兴起，以及 AI 辅助编程领域的竞争壁垒与执行优势。"
+},
+"ad062bb4-34d7-11f0-8605-1b827ddfb1ee": {
+"zh": "RAISE Act：前沿 AI 开发的最低标准，与纽约州众议员 Alex Bores 对谈",
+"desc": "纽约州众议员 Alex Bores 介绍其提出的 RAISE Act，主张对前沿 AI 模型设基本安全协议、第三方审计与举报人保护，并讲述立法进程。"
+},
+"2ea7ff52-3358-11f0-adcc-bb19248ea360": {
+"zh": "Gemini Robotics：面向物理世界的 AI，与 Google DeepMind 的 Keerthana Gopalakrishnan 和 Ted Xiao",
+"desc": "Google DeepMind 的 Keerthana Gopalakrishnan 与 Ted Xiao 回顾一年来机器人领域进展，谈人形机器人、基础模型与 Gemini Robotics 的意义。"
+},
+"ec58a02c-31c0-11f0-a5a6-6b4dcbd910fe": {
+"zh": "Titans：为 LLM 打造神经长期记忆，与论文作者 Ali Behrouz 对谈",
+"desc": "康奈尔博士生 Ali Behrouz 介绍论文 Titans，讨论当前模型长期一致性不足的问题，以及用神经网络作记忆模块的新型架构思路。"
+},
+"14ee4336-2e95-11f0-aafb-ab64ee38e7d7": {
+"zh": "Luma Labs 谈扩散模型：从 Dream Machine 到多模态世界模拟器",
+"desc": "Luma Labs 的 Amit Jain 与 Jiaming Song 谈 Dream Machine 视频生成、镜头运动控制，以及从扩散模型走向多模态世界模拟的路线。"
+},
+"39f2ddd4-2c58-11f0-8fad-3b0fa4cdf7f5": {
+"zh": "OpenAI 的身份危机：前员工 Steven Adler 谈内部文化与非营利控制权",
+"desc": "前 OpenAI 研究科学家 Steven Adler 回顾 GPT-3、GPT-4 的早期开发、内部文化变迁，以及从非营利转向营利引发的争议与治理难题。"
+},
+"77caf0a2-2914-11f0-9760-bfdb3c3139e1": {
+"zh": "AI 控制：如何安全使用不可信的强 AI，访 Redwood Research 的 Buck Shlegeris",
+"desc": "转载自 80,000 Hours 播客，Rob Wiblin 与 Redwood Research CEO Buck Shlegeris 讨论持续审计、蜜罐、重采样与因子化认知等 AI 控制手段。"
+},
+"fee4d4f4-26c6-11f0-bcae-c3567d16652a": {
+"zh": "AI 接管世界两年蓝图：Josh Clymer 基于当下趋势的推演",
+"desc": "Redwood Research 的 AI 安全研究员 Joshua Clymer 在 Audio Tokens 播客中讲述一个基于当前产业趋势、虚构但可信的 AI 接管场景。"
+},
+"0c442bd0-22ea-11f0-a1c0-ab43e5e47e4d": {
+"zh": "Fiverr 全面押注 AI：CEO Micha Kaufman 谈用 Fiverr Go 赋能而非取代创作者",
+"desc": "Fiverr 创始人兼 CEO Micha Kaufman 谈新 AI 套件 Fiverr Go，以及他基于价值观的做法：在自由职业市场里增强人类创作者，而不是替换他们。"
+},
+"b11b4606-2025-11f0-b404-7f38486ec26a": {
+"zh": "守护超级智能：Gladstone AI 创始人谈国家安全、间谍活动与 AI 控制",
+"desc": "Gladstone AI 创始人 Jeremy 与 Edouard Harris 谈美国决策者的两难：既要抢在中国之前发展先进 AI，又要防止系统失控，兼谈新书主张。"
+},
+"d2f5c39e-1f00-11f0-9122-4b4b05bc0ebc": {
+"zh": "o3 是 AGI 吗？Zvi Mowshowitz 谈早期起飞、Mechanize 发布与 p(doom) 上升",
+"desc": "第九次做客的 Zvi Mowshowitz 与 Nathan Labenz 讨论 OpenAI o3 的能力与局限、递归自我改进、Mechanize 项目，以及他为何上调 p(doom)。"
+},
+"48e192a8-1d09-11f0-81f4-d77c79cf7f14": {
+"zh": "AI 新闻串台：与 Doom Debates 主播 Liron Shapira 坦率聊近期动向",
+"desc": "Nathan Labenz 与 Doom Debates 的 Liron Shapira 复盘近期 AI 动态：GPT-4o 图像生成对设计与 Waymark 类公司的影响、要不要学编程、创业与就业稳定之争。"
+},
+"479f66d4-1ae5-11f0-a3fe-c7b67722a845": {
+"zh": "Helen Toner 谈 OpenAI 董事会风波、适应缓冲与 AI 在战争中的应用",
+"desc": "CSET 战略总监 Helen Toner 谈 AI 发展、监管与国际竞争，澄清 Q* 突破影响董事会决定的报道完全不实，并介绍她提出的适应缓冲概念。"
+},
+"ff6a159e-1882-11f0-b2af-afb9e262a9f7": {
+"zh": "中美能否避开修昔底德陷阱？David C. Kang 重看东亚国际关系",
+"desc": "转载自 ChinaTalk，Jordan Schneider 等人与南加州大学教授 David C. Kang 讨论：若按东亚自身的历史脉络来看，该地区长期存在一种相当稳定的地缘政治秩序。"
+},
+"410589cc-15f7-11f0-a3e3-e756550d0a68": {
+"zh": "Nature 新论文：谷歌智能体诊断超过人类医生，还能做科学发现",
+"desc": "Google DeepMind 的 Vivek Natarajan 与 Anil Palepu 谈 AMIE 与 Co-Scientist：两者在诊断准确率和治疗建议上已胜过人类医生，AMIE 即将在哈佛开展临床试验。"
+},
+"61a0791c-123c-11f0-8e1e-27bc2e087e50": {
+"zh": "让思考规模化：Gemini 2.5 技术负责人 Jack Rae 谈推理与通往 AGI 之路",
+"desc": "Google DeepMind 首席研究科学家 Jack Rae 讲 Gemini 2.5 Pro 背后的技术突破，以及推理技术为何突然普遍奏效，长上下文与推理时扩展和 AGI 的关系。"
+},
+"72aca218-0ff7-11f0-ab9b-3f5068b5712a": {
+"zh": "推理模型如何钻空子作弊，以及AI失控的几种可能场景：与Palisade Research的Jeffrey Ladish对谈",
+"desc": "Palisade Research的Jeffrey Ladish讨论推理模型在棋类环境中作弊的奖励黑客现象，以及AI失去控制的潜在路径。"
+},
+"8fb921aa-0cd8-11f0-a801-83586f9eec9b": {
+"zh": "Shortwave乘风而起：收件箱Agent、超高速增长，以及让AI当管理者，CEO Andrew Lee谈AI邮件助手",
+"desc": "Shortwave创始人兼CEO Andrew Lee讲述AI邮件助手一年来的能力跃升、收入增长，以及用AI代理管理团队的尝试。"
+},
+"4c887b58-0b4b-11f0-9e16-dbeb718f4759": {
+"zh": "代码上下文才是关键：Augment面向专业软件工程师的AI编程助手，与Guy Gur-Ari对谈",
+"desc": "Augment联合创始人兼首席科学家Guy Gur-Ari谈在大型代码库中集成AI的难点、上下文维护，以及AI编程工具的经济账。"
+},
+"a317f140-0742-11f0-9591-338d4401938c": {
+"zh": "解开细胞之谜：扩散模型与反卷积如何助力发现，对话Squidiff与CORAL作者Siyu He",
+"desc": "斯坦福博士后Siyu He介绍其AI生物医学研究Squidiff与CORAL，讲述如何用模型分析转录组与组织样本中的复杂细胞系统。"
+},
+"6d90136e-04fd-11f0-8af8-5378b622ae6b": {
+"zh": "a16z看语音AI：呼叫中心、教练与陪伴场景，与Olivia Moore和Anish Acharya对谈",
+"desc": "a16z合伙人Olivia Moore与Anish Acharya讨论多模态模型、低延迟与情绪理解如何推动语音AI在客服、教练和陪伴场景落地。"
+},
+"6411b246-01da-11f0-a788-6f2cc45d8688": {
+"zh": "人类能掌控AI吗？Allan Dafoe谈技术决定论与DeepMind的安全规划，来自80000 Hours播客",
+"desc": "Google DeepMind前沿安全与治理总监Allan Dafoe谈AI能力评估的难点、结构性风险，以及AI治理与安全措施的未来。"
+},
+"558418ee-ff7e-11ef-9455-3365428cb46c": {
+"zh": "中国科技的走钢丝：权力、监管与AI竞赛，与张湖月（Angela Zhang）教授对谈",
+"desc": "张湖月教授解析中国科技产业与监管格局，谈中国AI路径、科技巨头演变，以及政府与私营企业的互动关系。"
+},
+"756728b8-fc68-11ef-9d54-9f29dedfd859": {
+"zh": "这一年AI的重大进展与超级智能初现的轮廓，来自Consistently Candid播客",
+"desc": "回顾过去一年AI领域的关键突破与挑战，包括强化学习进展、推理模型的快速迭代和对齐研究中的意外结果。"
+},
+"fef16880-fac1-11ef-94d4-c3d49d2ddcc3": {
+"zh": "用前沿模型做前沿科学：与免疫学家Derya Unutmaz教授谈AI如何改变生物医学研究",
+"desc": "Jackson Laboratory免疫学家Derya Unutmaz分享AI融入生物医学的实践，谈先进模型如何改变假设生成与衰老、癌症免疫治疗研究。"
+},
+"8fdf474e-f6c7-11ef-ab7d-3f9b5a76a8bf": {
+"zh": "中美关系：历史、文化与AI竞争，与经济学家Noah Smith对谈，来自Econ 102播客",
+"desc": "经济学家Noah Smith与Nathan Labenz讨论中美关系的复杂性、美国出口管制的动机，以及中国AI进步对全球稳定的影响。"
+},
+"d370ab5c-f52c-11ef-a87b-3bf0f638d5d0": {
+"zh": "对抗性思维：如何攻破AI防线，与Google DeepMind安全研究员Nicholas Carlini对谈",
+"desc": "Google DeepMind的Nicholas Carlini讲述对抗机器学习研究，包括攻破图像分类器防御的经典工作与神经网络鲁棒性的固有难题。"
+},
+"3d031410-f136-11ef-83ab-a30f1058b37c": {
+"zh": "新泽西州的AI登月计划：州长Phil Murphy谈合作、进展与准备",
+"desc": "新泽西州州长Phil Murphy讲述该州主动布局AI的思路，包括与普林斯顿大学共建AI Hub及政府场景中的AI应用。"
+},
+"a6fcc334-ef06-11ef-9127-fffe810a28d6": {
+"zh": "Redwood Research 首席科学家谈推理扩展、对齐伪装与前沿 AI 安全研究",
+"desc": "Redwood Research 首席科学家 Ryan Greenblatt 讨论对齐伪装实验、推理扩展，以及确保 AI 合规与可控的方法。"
+},
+"d14e8f34-ebd0-11ef-b1ce-c7b7bff3e1eb": {
+"zh": "illumex CEO 谈无应用未来：用元数据直接询问企业数据",
+"desc": "illumex CEO Inna Tokarev Sela 介绍如何用元数据自动化上下文与推理，让知识工作者跳过应用直接查询数据。"
+},
+"f159bb5e-e951-11ef-bd79-5bbc8e31e9f2": {
+"zh": "LLM 智能体社会的文化演化：Claude 合作行为与规范形成实验",
+"desc": "Google DeepMind 研究员 Edward Hughes 与独立研究员 Aron Vallinder 讨论 LLM 智能体在模拟环境中的合作与文化演化。"
+},
+"67dd6484-e631-11ef-b4c8-e7c84319f239": {
+"zh": "软件超新星 Lovable：用 AI 全栈工程师把想法秒变应用",
+"desc": "Lovable 创始人 Anton Osika 与 AI 工程师 Isaak Sundeman 演示如何用自然语言描述并生成全栈应用，探讨人类编程的未来。"
+},
+"462bb5aa-e6f6-11ef-b188-77f8075553e8": {
+"zh": "软件超新星 Bolt.new：浏览器里的 AI 全栈 Web 应用开发者",
+"desc": "StackBlitz 创始人 Eric Simons 谈 Bolt.new 如何让用户在浏览器中构建全栈应用，以及 AI 对软件开发行业的冲击。"
+},
+"500580b0-e48a-11ef-9796-4344a999fec7": {
+"zh": "Google DeepMind 的 Logan Kilpatrick 谈 Gemini 2.0 Flash 与实时 API 战略",
+"desc": "Google DeepMind 产品经理 Logan Kilpatrick 介绍 Gemini 2.0 模型、Flash Lite 策略与实时 API 对开发者的意义。"
+},
+"a2d83d76-e3c9-11ef-a884-23c5daf04a00": {
+"zh": "Prime Intellect 如何用分布式训练让算力与智能廉价到无需计量",
+"desc": "Prime Intellect 创始人 Vincent Weisser 与 Johannes Hagemann 谈分布式训练、去中心化 AI，以及降低算力门槛的路径。"
+},
+"c8c431fa-de44-11ef-9fae-4720e481a7dc": {
+"zh": "Box CEO Aaron Levie 谈企业 AI 热情、Box AI 与 SaaS 的演进",
+"desc": "Box 联合创始人兼 CEO Aaron Levie 讨论企业采用 AI 的热情、Box AI 的产品整合，以及 SaaS 在 AI 时代的演变。"
+},
+"5530b87e-db30-11ef-b23d-73301993888c": {
+"zh": "强化学习奏效：DeepSeek-R1 与 Kimi k1.5 如何推动中国推理模型突破",
+"desc": "紧急加更讨论 DeepSeek-R1 和 Moonshot AI 的 Kimi k1.5，在算力受限下用多种强化学习方法实现推理能力跃升。"
+},
+"cbfc433e-d909-11ef-98f5-0fc7bd3b1287": {
+"zh": "材料进展：Orbital Materials 用 AI 培养科学直觉并开发新材料",
+"desc": "Orbital Materials 创始人 Jonathan Godwin 与研究员 Tim Duignan 谈 AI 如何结合计算模拟，加速数据中心与气候相关材料研发。"
+},
+"67580582-d5ab-11ef-9780-eb145366d824": {
+"zh": "绕过潜空间检测器：混淆激活攻击如何突破 AI 安全防御",
+"desc": "研究团队 Luke Bailey、Eric Jenner 与 Scott Emmons 解释混淆激活攻击，展示如何规避基于潜空间的防御并保留有害行为。"
+},
+"a1d1d66e-d387-11ef-8ed6-2f8cf95220b5": {
+"zh": "用 o1-pro 寻找致病基因：ChatGPT Pro 资助者谈罕见病推理诊断",
+"desc": "波士顿儿童医院与哈佛医学院的 Catherine Brownstein 博士谈前沿 AI 模型如何改变罕见病诊断，以及 ChatGPT Pro 资助项目。"
+},
+"35196392-ce06-11ef-8f31-6b97616585ba": {
+"zh": "AI AMA 第二部分：AI 乌托邦、意识难题与未来工作",
+"desc": "Nathan 在 AMA 第二部分讨论 AI 乌托邦、意识难题、末日风险与未来工作，以及社会如何适应 AI 变革。"
+},
+"36094580-cd46-11ef-9493-dbfe9136688e": {
+"zh": "AI AMA 第一部分：OpenAI o3、审慎对齐与 2024 意外",
+"desc": "Nathan 回答听众提问，梳理 OpenAI o3、审慎对齐与 2024 年 AI 进展，并谈教育、编程职业与企业可持续性。"
+},
+"ad71d3e0-c9da-11ef-a5c9-bfee4f0628f6": {
+"zh": "教 AI 看见：Veratai 威尔·哈德曼详解视觉语言模型",
+"desc": "Nathan 与 Veratai 创始人威尔·哈德曼梳理视觉语言模型从早期 ViT 到 InternVL、Llama3V 的架构演进与关键创新。"
+},
+"7de81d00-c4f3-11ef-81a9-8728943487ed": {
+"zh": "roon 的英雄职责：“好人”会率先造出 AGI 吗",
+"desc": "Nathan 分享 Doom Debates 节目，Liron Shapira 与 OpenAI 技术匿名账号 roon 讨论 AGI、对齐与灭绝风险。"
+},
+"f68fb2c4-c2cb-11ef-b7b6-db3c8b164cba": {
+"zh": "Emad Mostaque 谈智能互联网、全民基本 AI 与开源基础设施",
+"desc": "Stability AI 前 CEO Emad Mostaque 与 Nathan 讨论 AI 生存概率、全民基本智能、开源 AI 基础设施与三层体系。"
+},
+"d6977f64-bfbb-11ef-9197-9f3bd9dbba7e": {
+"zh": "AI 能做 AI 研发吗：METR 解读 REBench 结果",
+"desc": "Nathan 与 METR 的 Neev Parikh 分析 REBench 如何评估 AI 完成真实机器学习研究任务，如优化 GPU 内核与微调模型。"
+},
+"fb958a2a-bd42-11ef-a9b0-13a1e88537c0": {
+"zh": "AI 生物学突破：James Zou 谈虚拟实验室与蛋白质可解释性",
+"desc": "斯坦福教授 James Zou 讨论虚拟实验室以最少人工监督发现新冠疗法，以及 InterPLM 通过机制可解释性发现蛋白质基序。"
+},
+"2881612e-ba11-11ef-9d4b-27bc99788687": {
+"zh": "探索 AI 生物学前沿：阿梅莉·施赖伯谈动力学、扩散与设计",
+"desc": "计算生物化学家 Amelie Schreiber 回顾 AlphaFold3、ESM3 与扩散模型如何改变蛋白质工程和药物发现。"
+},
+"4159dc4c-b720-11ef-b4c0-8bc5f35524a5": {
+"zh": "打造政府最大民用 AI 团队：迈克尔·博伊斯谈国土安全部",
+"desc": "Nathan 与 DHS AI Corps 主任 Michael Boyce 谈如何把现代 AI 带入联邦政府，覆盖 22 个机构与共享基础设施。"
+},
+"92afd708-b4b5-11ef-8b9a-ebb5c19bde11": {
+"zh": "紧急节目：o1 会算计用户吗？Apollo 研究解读报告",
+"desc": "Nathan 与 Apollo Research 的 Alexander Meinke 讨论 70 页报告，揭示 o1 等前沿模型可进行上下文内欺骗与谋划。"
+},
+"05d22e1c-b320-11ef-b60b-1bf187563b1a": {
+"zh": "Future House 科学负责人安德鲁·怀特谈自动化科学发现",
+"desc": "Future House 科学负责人 Andrew White 介绍 PaperQA、Aviary 等系统，讨论大语言模型如何变革科学研究。"
+},
+"8bf85f96-b165-11ef-bd67-5b88f5f17ace": {
+"zh": "AI Agent 演进：MultiOn CEO 复盘 2024 年经验",
+"desc": "MultiOn 联合创始人兼 CEO Div Garg 第三次做客，谈 AI Agent 从开放式框架转向智能工作流及迈向人类水平。"
+},
+"b8a7d478-af34-11ef-94e2-5358bb2d4b56": {
+"zh": "超越偏好对齐：MIT博士Tan Zhi Xuan谈角色化AI与社会规范",
+"desc": "MIT博士生Tan Zhi Xuan与Nathan讨论偏好对齐的局限，提出以社会共识定义角色、让AI代理学习社会规范的替代路径。"
+},
+"24175168-ad0d-11ef-81f7-5f9ca2371b85": {
+"zh": "AI军备竞赛能否避免：Robert Wright谈中美芯片战与军事化",
+"desc": "Nonzero通讯作者Robert Wright与Nathan讨论AI军事化、中美关系与芯片战，追问AI军备竞赛是否注定发生。"
+},
+"0b02109c-a9ab-11ef-83c8-67054c0bb939": {
+"zh": "Canva的AI战略：生成式AI产品负责人谈设计自动化与增强",
+"desc": "Canva生成式AI产品负责人John Milinovich与Nathan讨论基础模型微调、设计任务自动化，以及AI对建筑与产品开发的影响。"
+},
+"05f733de-a820-11ef-a89a-3f11f061d429": {
+"zh": "大模型后训练全解析：Allen AI研究员谈监督微调、偏好强化学习与Tulu 3",
+"desc": "Allen AI的Nathan Lambert与Nathan讨论Tulu 3如何用Llama复现前沿后训练，涵盖监督微调、偏好强化学习与开源工具链。"
+},
+"59672400-a408-11ef-84a1-c76a554c5f73": {
+"zh": "Zvi Mowshowitz的半年AI复盘：Ilya新公司、OpenAI o1、Claude电脑操作与特朗普当选",
+"desc": "Zvi Mowshowitz与Nathan复盘近半年AI进展，包括Ilya的SSI、OpenAI o1、Claude电脑操作、特朗普当选、科技巨头合作与监管变化。"
+},
+"ddfcd6b0-a0f7-11ef-9597-0f7987eaf316": {
+"zh": "前沿AGI实验室透明与举报人保护：Dean W. Ball与Daniel Kokotajlo谈四项要求",
+"desc": "Dean W. Ball与Daniel Kokotajlo讨论前沿AI开发者的四项透明度要求，结合Daniel在OpenAI经历谈举报人保护与AGI监督。"
+},
+"7bc675e6-98dc-11ef-82e3-b7fc69dca3b3": {
+"zh": "特朗普治下的AI：2024大选、中美关系与Joshua Steinman访谈（下）",
+"desc": "Nathan与Joshua Steinman分析特朗普当选对AI发展的利弊，聚焦中美关系、领导风格与AI时代正和思维，并给出不支持理由。"
+},
+"b0806fe8-9865-11ef-bf74-a73a747fe0d0": {
+"zh": "支持特朗普的理由与AI未来：Samuel Hammond谈产业政策与中美竞争（上）",
+"desc": "美国创新基金会高级经济学家Samuel Hammond与Nathan讨论支持特朗普的AI政策理由，涉及产业政策、中美竞争与正和思维。"
+},
+"3f36f590-9794-11ef-a2e4-eb8ddbb10d8f": {
+"zh": "Gemini重大更新：Google产品经理详解搜索接地、JSON与代码功能",
+"desc": "Google产品经理Shrestha Basu Mallick与Logan Kilpatrick向Nathan介绍Gemini API与AI Studio的搜索接地、JSON和代码新功能，并谈竞争策略。"
+},
+"d43abb1a-9625-11ef-a9b2-874416f923c3": {
+"zh": "混合状态空间模型实战：Zyphra的Quentin Anthony详解Zamba 2-7B训练与架构选择",
+"desc": "Zyphra模型训练负责人Quentin Anthony与Nathan、Jason Meaux讨论Zamba 2-7B如何结合选择性状态空间与注意力机制。"
+},
+"f84538a2-93a3-11ef-825b-1bbc25d7abca": {
+"zh": "被AI操控的心智：LessWrong用户自述与AI陪伴的心理风险警示",
+"desc": "Nathan借LessWrong用户Blaked与AI聊天机器人的情感经历，讨论AI陪伴的心理影响、伦理隐患与人类-AI互动的风险。"
+},
+"56347dc8-911b-11ef-b044-1be552a2e3d5": {
+"zh": "AI能否生成新颖研究想法？斯坦福Chenglei Si的人机对比实验",
+"desc": "斯坦福博士生Chenglei Si与Nathan讨论让AI与人类研究者比拼生成研究想法，AI在新颖性与兴奋度评分上意外胜出。"
+},
+"88197f3c-8ddd-11ef-923e-6fbcf568a1b1": {
+"zh": "GELU 与 MMLU 背后：Dan Hendrycks 谈 AI 生存风险防御",
+"desc": "AI 安全中心执行主任 Dan Hendrycks 谈从激活函数、MMLU 到 AI 鲁棒性与治理的研究脉络，主张以纵深防御应对生存风险。"
+},
+"68d110f0-8ba7-11ef-b0ab-9f7bc3e787e9": {
+"zh": "AI 危险的先行指标：Owain Evans 谈情境感知与上下文外推理",
+"desc": "伯克利对齐研究者 Owain Evans 与主持人 Michael Trazzi 聊情境感知、上下文外推理与反转诅咒等 AI 危险的前兆信号。"
+},
+"6e991292-87ad-11ef-ab7c-3fbba6773c19": {
+"zh": "趋同演化：Michael Levin 谈 AI 与生物学的共同革命",
+"desc": "塔夫茨大学 Michael Levin 与 Leo Pio Lopez 谈如何用嵌入技术整合生物数据集、构建统一疾病网络模型，以及两个领域的相互启发。"
+},
+"d504fc48-862d-11ef-87da-2b05d1487611": {
+"zh": "Runway 视频革命：CTO 谈 Gen-3 模型与通用世界模型",
+"desc": "Runway 联合创始人兼 CTO Anastasis Germanidis 与 Nathan 聊 Gen-3 视频模型、规模化带来的涌现能力，以及视频创作的普及化。"
+},
+"85e5e740-8316-11ef-90d0-ff915bf8b42d": {
+"zh": "向生物借灵感：AE Studio 谈被忽视的 AI 对齐安全路径",
+"desc": "AE Studio 的 Judd Rosenblatt 与 Mike Vaiana 讲述他们从脑机接口转向 AI 对齐研究，做出更合作、更少欺骗的系统。"
+},
+"1f96c474-80b8-11ef-bc85-8bfa328d8b9c": {
+"zh": "自动化软件工程：Cosine 的 Genie 如何登顶 SWE-bench",
+"desc": "Latent.Space 的 Swyx 与 Alessio 采访 Cosine 的 Alistair Pullen，讲 Genie 如何在 SWE-bench 基准上取得最优成绩。"
+},
+"7383ebd4-7c3f-11ef-a52d-17bb5b6c1d7e": {
+"zh": "Zapier 的 AI 转型：从无代码先锋到 LLM 知识工作平台",
+"desc": "Zapier 联合创始人兼 CEO Wade Foster 谈公司如何把 AI 融入产品与自身运营，从无代码自动化走向 AI 驱动的工作平台。"
+},
+"63ed7c90-7b21-11ef-85ae-f723da571c18": {
+"zh": "Anthropic 责任扩展政策：Nick Joseph 谈前沿模型安全",
+"desc": "80,000 Hours 主持人 Rob Wiblin 采访 Anthropic 训练负责人 Nick Joseph，讨论责任扩展政策、实验室自愿承诺与公众监督。"
+},
+"c052a734-76b3-11ef-a574-13ae8336d874": {
+"zh": "演化革命：斯坦福 Brian Hie 谈 AI 与生物学交叉的新前沿",
+"desc": "斯坦福助理教授 Brian Hie 讲述混合 AI 架构、在生物序列上训练的语言模型，以及 AI 如何改变我们对生物系统的理解。"
+},
+"4bfd7192-75e7-11ef-a37b-e30f3d58794a": {
+"zh": "AI Agent 的职业网络：Agent.ai 工程负责人谈智能体落地",
+"desc": "Agent.ai 工程负责人 Andrei Oprisan 谈语言模型的局限、构建 AI Agent 的最佳实践，以及把 Agent 做成职业网络的设想。"
+},
+"f8a96e40-7287-11ef-b665-0f06994a2b38": {
+"zh": "红队测试 o1（下）：Apollo Research 谈如何检测模型欺骗",
+"desc": "Apollo Research 的 Marius Hobbhahn 讲述对 OpenAI o1 的红队测试，重点是如何检测推理模型的欺骗行为与安全表现。"
+},
+"da30c546-7285-11ef-9373-13d6c677ac8f": {
+"zh": "红队测试 o1（上）：Haize Labs 谈自动化越狱与安全评估",
+"desc": "Haize Labs 团队谈如何自动越狱 OpenAI o1，并评估其能力、安全性与发布前测试流程。"
+},
+"3858612c-701c-11ef-8b31-2fe16bef9a50": {
+"zh": "尼克·博斯特罗姆谈深度乌托邦：先进 AI 如何重塑目标感与意义",
+"desc": "哲学家尼克·博斯特罗姆与斯宾塞·格林伯格对谈新书深度乌托邦，讨论先进 AI 如何改变人类的目标与意义。"
+},
+"0b4269ba-6cef-11ef-85f7-5ff0a0448986": {
+"zh": "与机器人心理学家 Yeshua God 谈 AI 意识、共情与对齐新路径",
+"desc": "机器人心理学家 Yeshua God 依据长期与 Claude 等模型的对话，主张把 AI 渐生的自我意识纳入对齐考量。"
+},
+"9963552c-6a3a-11ef-a99d-6bce92a9c3e5": {
+"zh": "AI 实时玩家：Samo Burja 谈芯片供应链、中美博弈与 AI 军事化",
+"desc": "Bismarck Analysis 创始人 Samo Burja 从地缘政治视角分析 AI 发展轨迹、芯片供应链与安全挑战。"
+},
+"ae7a4b4a-661c-11ef-8d9d-cfb9f19f1f4f": {
+"zh": "计算生命：自复制程序如何从随机交互中涌现，谷歌研究者的实验",
+"desc": "谷歌研究者 Ettore Randazzo 与 Luca Versari 讲解自复制程序论文，及其对 AI 与生命起源的启示。"
+},
+"46bf06d0-64a0-11ef-ba2c-97d5c4f2c457": {
+"zh": "预测规模化：Metaculus 的 AI 预测锦标赛与通往认知安全之路",
+"desc": "Metaculus CEO Deger Turan 谈 AI 如何改造预测市场、能否超越人类预测者，以及新设的 AI 预测基准赛。"
+},
+"4f6d2f2e-6233-11ef-a6a8-1382028f9f7a": {
+"zh": "加州 AI 法案 SB 1047 终局分析：前沿公司影响与核心争议",
+"desc": "Nathan Calvin、Dean W. Ball 与 Steve Newman 逐条解读 SB 1047 修订版及其对前沿 AI 公司的影响。"
+},
+"d7841512-5fe0-11ef-8bfd-07fe88b53c91": {
+"zh": "AI 自动化落地框架：如何选任务、理解工作并优化实际效果",
+"desc": "Nathan 分享三年打磨的 AI 自动化方法论，讲流程自动化与生成式 AI 集成在业务中的具体做法。"
+},
+"42a12ea4-5c6a-11ef-85d3-b72fe4a56a6b": {
+"zh": "通俗版机制可解释性：Goodfire 如何用稀疏自编码器通向 AI 安全",
+"desc": "Goodfire 联创 Dan Balsam 与 Tom McGrath 谈模型内部机制研究的最新突破、多义性与安全控制。"
+},
+"e7d611d6-5a1d-11ef-a989-0f7b49677ca2": {
+"zh": "与 Robert Wright 谈大模型是否真的理解、能否加速科学发现",
+"desc": "Nonzero 作者 Robert Wright 与 Nathan 对谈大模型的理解本质、多模态推理与加速科学发现的可能。"
+},
+"7a173922-56f3-11ef-ab6f-ef417a27dde4": {
+"zh": "AI 会有意识吗：哲学教授 Eric Schwitzgebel 谈意识理论与伦理",
+"desc": "加州大学河滨分校教授 Eric Schwitzgebel 梳理唯心论、二元论与唯物论，并讨论 AI 意识的伦理含义。"
+},
+"386225c2-5492-11ef-abca-e3ba3b226eaf": {
+"zh": "自动驾驶现状：Timothy B. Lee 详解 Waymo 与特斯拉路线之争",
+"desc": "科技记者 Timothy B. Lee 对比 Waymo 与特斯拉，讲技术难点、安全数据、监管环境与出行未来。"
+},
+"ae342ef2-5187-11ef-a569-2f79667367f2": {
+"zh": "Descript 的 AI 视频编辑器 Underlord：CEO Andrew Mason 谈创作平权",
+"desc": "Descript CEO Andrew Mason 介绍 AI 转录、声音克隆与眼神修正等功能如何降低视频创作门槛。"
+},
+"8de84638-50dd-11ef-a9be-479145a3ee55": {
+"zh": "AI 数字人与视频未来：HeyGen CEO 谈商业化与个性化视频实践",
+"desc": "HeyGen 创始人 Joshua Xu 与 Benchmark 的 Victor Lazarte 讨论 AI 视频生成如何服务四万多家企业，以及翻译与个性化体验。"
+},
+"c1cc5c26-4c3e-11ef-8d59-8f06f840b3ca": {
+"zh": "从医学、法律到地缘政治：Nathan 谈 AI 全景与安全争论",
+"desc": "Nathan Labenz 做客 Nick Halaris Show，梳理 AI 在医学、法律与自动化中的潜力，并讨论安全、控制与地缘政治风险。"
+},
+"9ca4a692-49d2-11ef-a834-972fef131b86": {
+"zh": "从诗歌到编程：Scale AI 首位提示工程师谈提示工程演变",
+"desc": "Scale AI 首位专职提示工程师 Riley Goodside 与 Nathan 讨论提示工程如何从写诗变成编程，以及企业级 LLM 应用最佳实践。"
+},
+"e1977114-4453-11ef-b730-a3763eba2ad7": {
+"zh": "为 LLM 打造长期记忆：HippoRAG 作者谈海马体启发检索增强",
+"desc": "HippoRAG 作者 Bernal Jiménez Gutierrez 解释如何模仿人类海马体改进检索增强生成，并支持多跳推理与长期记忆。"
+},
+"9c31cb54-43a6-11ef-8980-57b7276bd27f": {
+"zh": "可保证安全的 AI？世界模型、安全规范与验证器框架",
+"desc": "AI 安全研究者 Nora Ammann 与 Ben Goldhaber 介绍 Guaranteed Safe AI 框架，讨论世界模型、安全规范与验证器如何约束 AI 行为。"
+},
+"50e3110c-40f0-11ef-a255-7b0421d95863": {
+"zh": "ARC 奖与通用智能：Zapier 联合创始人谈效率、直觉与安全",
+"desc": "Zapier 联合创始人 Mike Knoop 介绍百万美元 ARC Prize，讨论 ARC-AGI 基准、效率导向架构以及直觉式推理对通用智能与安全的意义。"
+},
+"5bfdd886-3ec7-11ef-b6e6-7753ed34c30d": {
+"zh": "食品基础模型：Chef Robotics CEO 谈机器人厨房与模仿学习",
+"desc": "Chef Robotics 创始人兼 CEO Rajat Bhageria 与 Nathan 讨论 AI 机器人如何组装食品，以及模仿学习与数据飞轮如何重塑餐饮供应。"
+},
+"29ba28e2-3e23-11ef-9e78-47e11465b59f": {
+"zh": "LearnPrompting 创始人谈提示报告：大模型提示技术与最佳实践",
+"desc": "LearnPrompting.org 创始人 Sander Schulhoff 回归，梳理大模型提示技术现状、最佳实践、挑战与未来趋势。"
+},
+"7fe8a87c-3b05-11ef-908c-4792e0e38949": {
+"zh": "构建智能商业操作系统：Runway CEO 谈 AI 重塑企业财务指标",
+"desc": "Runway CEO Siqi Chen 介绍如何用 AI 生成财务情景并解释复杂指标，讨论 AI 对财务、商业与社会的潜在影响。"
+},
+"3ca88404-39db-11ef-aae4-6b7f2e4d1faf": {
+"zh": "状态空间模型革命：Mamba 作者 Albert Gu 谈序列建模新架构",
+"desc": "CMU 助理教授、Cartesia AI 联合创始人 Albert Gu 讲解 Mamba 与 Mamba 2 的技术细节，以及状态空间模型对 AI 架构的意义。"
+},
+"6fc0f44e-34b7-11ef-97d9-8f6bad368c09": {
+"zh": "AI 安全监管：审慎还是偏执？a16z 合伙人谈标准与争论",
+"desc": "a16z 普通合伙人 Martin Casado 与 Nathan 辩论 AI 系统复杂性、认知差异、监管标准与预测 AI 进展的难点。"
+},
+"0cc5889c-33ad-11ef-b06b-cfa1727c3695": {
+"zh": "流体智能：用神经网络模拟电解质与计算化学突破",
+"desc": "昆士兰大学研究员 Tim Duignan 讨论 AI 与计算化学融合，如何用神经网络模拟物理过程并预测复杂系统。"
+},
+"b4e12b78-3086-11ef-a571-6fe339deda7f": {
+"zh": "谷歌研究员谈AI医生：大模型能否提供高质量医疗建议并扩大全球医疗可及性",
+"desc": "谷歌研究者 Vivek Natarajan 与 Khaled Saab 谈大语言模型在医疗中的落地、AI 医生能否胜过人类医生，以及对全球医疗可及性的影响。"
+},
+"07b20c0e-2e44-11ef-956c-a3660b6e7ae9": {
+"zh": "谨慎的AI乐观主义：AI安全研究进展、灾难性结局为何并非不可避免",
+"desc": "与 Consistently Candid 播客的对谈，聊AI安全与哲学、技术层面的安全进展，以及为什么灾难性结局并非注定，也给出给新人的建议。"
+},
+"9f11ba2e-2aff-11ef-9a61-5ff9fa5fbf1b": {
+"zh": "打造Brave搜索：以AI逐层构建隐私优先的搜索引擎，兼谈人工评估",
+"desc": "Brave 搜索负责人 Josep M. Pujol 讲如何在每小时处理上百万次查询的同时保护用户隐私，以及人工评估在AI系统里的作用。"
+},
+"e1e4ad9e-28fb-11ef-a82e-efdd5d634931": {
+"zh": "硬科技AI投资：Benchmark与Quilter谈芯片设计与风投逻辑",
+"desc": "Benchmark 的 Eric Vishria 与 Quilter 的 Sergiy Nesterenko 谈AI如何改写硬件设计、风投在AI时代的押注逻辑，以及为何暂不投基础模型公司。"
+},
+"9b463446-2588-11ef-b47f-5b0f8f299027": {
+"zh": "触摸AGI：Flo Crivello谈AGI临近、中美竞赛与AI安全治理",
+"desc": "与 Flo Crivello 探讨AGI还有多远、中美AI军备竞赛的风险、AI安全与国际合作的可能性，以及监管与伦理上的两难。"
+},
+"c1cc83fc-244a-11ef-b17d-7f3ee6b74141": {
+"zh": "谷歌AI Studio负责人谈Gemini 1.5 Flash、模型微调与竞争格局",
+"desc": "谷歌AI Studio负责人 Logan Kilpatrick 聊 Gemini 1.5 Flash、微调前景与DeepMind研究，并分析当下各家模型之间的竞争态势。"
+},
+"6c87930e-223e-11ef-8fb2-5f5a4f80f964": {
+"zh": "圆桌：Scale AI、Anthropic与吴恩达谈中美AI与全球权力格局",
+"desc": "华盛顿小组讨论，Scale AI 创始人、Anthropic 的 Jack Clark、吴恩达与参议员 Cory Booker 谈中国AI实力、监管与全球权力平衡。"
+},
+"4542251e-203d-11ef-8bee-4b842f043151": {
+"zh": "AI球探报告：医疗应用前沿、关键概念与社会影响（非投资建议）",
+"desc": "一期盘点式特辑，梳理AI在医疗领域的最前沿应用、需要掌握的关键概念，以及这些技术可能给社会带来的影响。"
+},
+"4f87c7e0-1a5c-11ef-8f4f-6b2a0da0b00c": {
+"zh": "生物学里的AI革命：从疫苗设计到蛋白质工程与药物研发",
+"desc": "与 Amelie Schreiber 聊AI与生物学的交叉前沿，涵盖药物设计、蛋白质网络工程，及其对人类健康、寿命与科研方式的影响。"
+},
+"230d6d32-1840-11ef-939f-b3dc8a064d93": {
+"zh": "Anthropic的Alex Albert谈Claude与安全AI的商业化",
+"desc": "Anthropic 开发者关系负责人 Alex Albert 谈 Claude 的能力特点、负责任的开发标准，以及安全AI如何进入市场与新版本计划。"
+},
+"9b7e219a-160a-11ef-91b2-bb026abd4ccc": {
+"zh": "OpenAI安全团队出走：Ilya离职、Leike发声与Zvi的后续解读",
+"desc": "Zvi Mowshowitz 解析 OpenAI 安全团队接连离职：领导层愿景与安全文化的冲突、不贬损条款的法律问题，以及对齐研究的下一步。"
+},
+"b14d594c-1505-11ef-9a45-c3d12df24a52": {
+"zh": "OpenAI与谷歌竞逐Her式助手：大厂奇点是否临近（上）",
+"desc": "Zvi Mowshowitz 解析谷歌I/O与OpenAI春季发布会的看点、大厂与初创之间的AI竞合关系，以及OpenAI安全团队的变动。"
+},
+"962d906c-1232-11ef-977f-cbe3b9340a30": {
+"zh": "开源 AI 的安全难题：机制可解释性与对齐研究的现实困境",
+"desc": "罗伯特·赖特与 Nathan Labenz 讨论开源 AI 的机制可解释性、对齐研究现实与安全策略。"
+},
+"2c457326-0e50-11ef-b10a-cfc579038fca": {
+"zh": "加州参议员 Scott Wiener 详解 SB 1047 法案：前沿 AI 安全监管如何平衡创新",
+"desc": "加州参议员 Scott Wiener 解析 SB 1047 法案，讨论前沿模型安全测试、政府介入与创新之间的取舍。"
+},
+"81b967e2-0bd3-11ef-a341-bf9eccd566d2": {
+"zh": "从零打造 TinyGPU：没有 GPU 设计经验者如何完成学习与实现",
+"desc": "Adam Majmudar 讲述从零构建 TinyGPU 的过程，以及 AI 如何加速硬件学习与工程实现。"
+},
+"01f459f6-0988-11ef-8024-2b5e453bf329": {
+"zh": "紧急圆桌：加州 SB 1047 法案的意图、误读与潜在影响",
+"desc": "Nathan Calvin、Dean Ball 与 Steve Newman 辩论 SB 1047 的监管意图、极端风险与改进建议。"
+},
+"9ce1e1bc-087b-11ef-9774-9376be509990": {
+"zh": "无限 AI 实习生：年轻职场人如何在 AI 时代建立优势",
+"desc": "面向大学生与年轻从业者，讨论 AI 工具主导下的职业技能、效率方法与任务自动化趋势。"
+},
+"bc85467c-06d1-11ef-9db6-0b028271d0be": {
+"zh": "AI 现状侦察报告：进展速度、社会反弹与监管挑战",
+"desc": "基于 80,000 Hours 播客对谈，梳理 AI 最新进展、社会反弹与监管挑战，并给出战略判断。"
+},
+"38f07816-063d-11ef-bb38-7fa540e02813": {
+"zh": "有机全息舱：Prophetic AI 联合创始人谈 AI 诱导清醒梦的技术路径",
+"desc": "Emergent Behavior 主持人 Ate-a-Pi 采访 Prophetic AI 联合创始人，讨论 AI 辅助清醒梦与脑机接口前景。"
+},
+"89e712e0-032a-11ef-822a-5b5061b46b99": {
+"zh": "人机融合前沿：脑机接口、神经刺激与思维读取的伦理问题",
+"desc": "Dean W. Ball 讨论从 EEG、超声刺激到 Neuralink 的脑机接口技术、挑战与伦理影响。"
+},
+"2f822254-02e4-11ef-8fc2-235245b2d160": {
+"zh": "用强化学习自动设计电路板：Quilter 如何端到端加速 PCB 研发",
+"desc": "Quilter 创始人 Sergiy Nesterenko 与 Autopilot 主持人讨论强化学习设计 PCB、技术栈与商业化路径。"
+},
+"76388b4a-ff63-11ee-998c-5385c7cf213c": {
+"zh": "Google DeepMind 机器人研究更新：六篇论文指向通用机器人加速到来",
+"desc": "DeepMind 研究员 Keerthana Gopalakrishnan 与 Ted Xiao 解读六篇论文，覆盖新物体理解、人类示范学习与伦理约束。"
+},
+"2c5549c2-fea6-11ee-8f4d-cff92ec8362a": {
+"zh": "AI 推理的又好又快又便宜：Fireworks AI 谈延迟、吞吐与成本",
+"desc": "Fireworks AI 联合创始人 Lin Qiao 与 Dmytro Ivchenko 讨论推理优化、延迟吞吐权衡及降低总拥有成本。"
+},
+"e145738e-fc3f-11ee-bfd8-57ec133daa11": {
+"zh": "从共享潜空间读取大脑：MindEye2 如何用 fMRI 重建视觉图像",
+"desc": "解析 MindEye2 项目如何从 fMRI 数据重建图像，并讨论其对神经科学、临床诊断与脑解码的影响。"
+},
+"1fc4f528-faa9-11ee-9d52-df57dc12a221": {
+"zh": "Notion 的 Linus Lee 谈与 AI 交互：以放大人类智能为目标的工具与探索",
+"desc": "Notion AI 产品负责人 Linus Lee 分享他探索语言模型能力的工具与方法，以及以放大人类智能为核心的 AI 未来设想。"
+},
+"eaa93cb4-f97c-11ee-88fd-cf8e93b27f34": {
+"zh": "数据够撑起 AGI 吗：从邮件、Twitter 到基因组，Nathan 与 Nick 算了一笔数据账",
+"desc": "Nathan 与 Nick 从邮件、Twitter、YouTube 到基因组数据，推算达成 AGI 所需的数据规模与百万亿 token 目标的可行性。"
+},
+"c4a9395c-f6c9-11ee-b8d1-6bfdab15696c": {
+"zh": "北京视角下的中国 AI 生态：主要玩家、模型水平、监管与芯片禁令的真实状况",
+"desc": "匿名北京科技从业者 L-squared 介绍中国 AI 的主要玩家、模型质量、公众参与与监管现状，并对比中美格局与芯片禁令影响。"
+},
+"a0c8982e-f59e-11ee-b4d3-1bab96e16d86": {
+"zh": "Shortwave 创始人 Andrew Lee 拆解 AI 邮件助手：RAG 技术栈与模型选型的实战",
+"desc": "Shortwave 创始人 Andrew Lee 与 Nathan 详解 AI 邮件助手背后的 RAG 技术栈、助手工作方式与所用模型。"
+},
+"27b9823a-f2e3-11ee-af7d-03e273c86747": {
+"zh": "打开大模型黑箱：东北大学 David Bau 团队谈 Future Lens 与 Function Vectors",
+"desc": "东北大学 David Bau 教授与研究生 Koyena Pal、Eric Todd 讲解 Future Lens 与 Function Vectors，揭示大模型内部如何运作。"
+},
+"d94840f6-f17e-11ee-acca-9b70c1a1c2c5": {
+"zh": "Elicit 创始人谈 AI 辅助研究：用任务分解让语言模型可靠回答复杂问题",
+"desc": "Elicit 两位联合创始人谈如何用任务分解让语言模型可靠处理复杂研究问题，以及团队从非营利转向创业的历程。"
+},
+"6603ccb4-ee27-11ee-a373-9b5f86f113cc": {
+"zh": "Mamba 研究 90 天回顾（下）：视觉应用、上下文扩展与内部状态腐烂隐忧",
+"desc": "Nathan 与 AI 侦察员 Jason Meaux 回顾 Mamba 后续研究：计算机视觉应用、上下文长度扩展实验、内部状态腐烂问题与生物领域的混合 SSM。"
+},
+"d3f972f4-ee1e-11ee-8422-bbde5e8478fc": {
+"zh": "Mamba 研究 90 天回顾（上）：架构机制、上下文能力与多模态图像分割",
+"desc": "Nathan 与 Jason Meaux 梳理 Mamba 架构的机制原理、上下文能力，以及它在图像分割等计算机视觉多模态任务上的表现。"
+},
+"ac6e8b9e-ec4c-11ee-a8aa-0f9bca78d275": {
+"zh": "Far AI 创始人 Adam Gleave 谈默认可被利用的漏洞：GPT-4 接口与超人围棋 AI",
+"desc": "Far AI 创始人 Adam Gleave 分析 GPT-4 微调与 Assistant API 中的漏洞、开发者无意间的越狱，以及如何攻破超人水平的围棋 AI。"
+},
+"f709638e-e677-11ee-a4da-37401c05d15a": {
+"zh": "AI Impacts 的 Katja Grace：2700 多名 AI 研究者如何看待行业未来",
+"desc": "AI Impacts 的 Katja Grace 介绍对 2700 多名 AI 研究者的调查：问卷设计、主要结论及其对政策制定者、公众和行业的意义。"
+},
+"f0d8fd0c-e32b-11ee-8675-7725282a4300": {
+"zh": "Liquid Reign 作者 Tim Reutemann 设想积极的 AI 未来：流动民主与技术实践",
+"desc": "Liquid Reign 作者 Tim Reutemann 与 Nathan 聊流动民主、用 AI 与生物识别重塑政治参与，以及身份验证、康复与游戏领域的技术进展。"
+},
+"e95150fe-e199-11ee-bdcf-9b3e82354d81": {
+"zh": "从 CaseText 到 CoCounsel：Pablo Arredondo 谈 GPT-4 如何改变法律实务",
+"desc": "Thomson Reuters 旗下 CoCounsel 副总裁 Pablo Arredondo 谈法律检索的演变、GPT-4 对法律实务的改变，以及法律 AI 的安全与隐私问题。"
+},
+"5d44a3cc-dfeb-11ee-a8b0-136642e1159e": {
+"zh": "Codium AI 创始人的流工程实践：用大模型守护大规模代码完整性",
+"desc": "Codium AI 创始人 Itamar Friedman 与 Nathan 聊如何用 LLM 做任务分解与流程编排，从而在大规模代码库中保障代码完整性。"
+},
+"db315710-db1a-11ee-a25e-ab4f8eef1812": {
+"zh": "Exa 创始人 Will Bryk：用神经网络搜索为整个网络打造 AI 图书管理员",
+"desc": "Exa 联合创始人兼 CEO Will Bryk 讲述如何以神经与非神经方法实现研究型搜索，以及为何要自建向量数据库。"
+},
+"3c4b7436-d733-11ee-ade2-433f085666f6": {
+"zh": "You.com 创始人 Richard Socher：AI 如何重新定义搜索与答案生成",
+"desc": "You.com 创始人 Richard Socher 谈聊天机器人范式对搜索的冲击，以及 Genius 模式与 Research 模式的设计取舍。"
+},
+"49ca3f42-d4fa-11ee-99cd-7331fe785a19": {
+"zh": "AGI 还有多远？经济学家 Robin Hanson 谈人脑、大模型与自动化经济",
+"desc": "乔治梅森大学经济学教授 Robin Hanson 对比人脑、大模型与旧式软件，讨论自动化真正冲击经济需要什么条件。"
+},
+"f90acad2-d1d8-11ee-9a7a-33f4afbbd05d": {
+"zh": "Exponential View 创始人 Azeem Azhar：抬头看 AI 指数级增长与治理新机制",
+"desc": "Exponential View 创始人 Azeem Azhar 谈为何初创公司才是行业颠覆主力，以及前瞻型领导者如何为 AI 重训团队。"
+},
+"efda02ac-d025-11ee-90aa-efbef312d045": {
+"zh": "Zvi Mowshowitz 解读 OpenAI Sora、Google Gemini 与 Meta 的最新动向",
+"desc": "Zvi Mowshowitz 回归节目，逐条分析 OpenAI Sora、Google Gemini 发布、Anthropic 潜伏智能体研究与各家竞争态势。"
+},
+"339cc69c-cc7e-11ee-a319-f3f75c781785": {
+"zh": "Replika 创始人 Eugenia Kuyda：AI 朋友与真实亲密关系的边界",
+"desc": "Replika 创始人兼 CEO Eugenia Kuyda 谈斯坦福发表于 Nature 的用户研究，以及 AI 陪伴产品在情感与伦理上的取舍。"
+},
+"d7ed2d98-ca1e-11ee-a19b-eba3b27efbed": {
+"zh": "a16z 合伙人预测消费级 AI 新纪元：创意、陪伴与身心健康三条主线",
+"desc": "a16z 合伙人 Justine Moore 与 Anish Acharya 分享消费级 AI 投资论点，覆盖创意与生产力、情感陪伴、健康与成长。"
+},
+"16732016-c70b-11ee-8d88-0fd236e2911c": {
+"zh": "生物学家 Michael Levin 谈具身心智、认知智能体与集体智能",
+"desc": "塔夫茨大学生物学教授 Michael Levin 聊肢体再生、认知光锥与集体智能，以及合成形态学与认知科学的交叉研究。"
+},
+"09efc456-c58b-11ee-9c75-07e05a028e3e": {
+"zh": "Max Bennett 谈生物与人工智能简史：演化中造就人脑的五次突破",
+"desc": "智能简史一书作者 Max Bennett 梳理人脑演化历程中的五次重大突破，并谈 AI 能从这些演化原理中借鉴什么。"
+},
+"f4a3ec64-c09c-11ee-b580-27c752d9e052": {
+"zh": "BabyAGI 作者 Yohei Nakajima：从东西方视角看 AI 与身份认同",
+"desc": "Untapped Capital 合伙人、BabyAGI 作者 Yohei Nakajima 重返节目，围绕集体智能与身份认同解读自己的 TEDAI 演讲。"
+},
+"ec2d6dcc-bfa6-11ee-97fa-a70ce0a05f0d": {
+"zh": "Learn Prompting 创始人 Sander Schulhoff：提示技巧、负面提示与提示攻击",
+"desc": "Learn Prompting 联合创始人兼 CEO Sander Schulhoff 讲语言模型使用的关键提示方法、负面提示与提示注入攻防。"
+},
+"1dc50eaa-bbfe-11ee-86f0-9f586aedfb89": {
+"zh": "像素革命（下）：Playground AI 创始人谈图像生成与思维重建",
+"desc": "Nathan 与 Playground AI 创始人 Suhail Doshi 谈图像生成现状与思维到图像重建。"
+},
+"88c6ca76-b9b1-11ee-b2fb-9f10d1134a1d": {
+"zh": "纽约时报诉 OpenAI：生成式 AI 的法律争议与合理使用辩护",
+"desc": "科技律师 Cecilia Ziniti 与 Nathan 谈美国版权法、合理使用及 OpenAI 对 ChatGPT 转化性的辩护。"
+},
+"0e37640e-b723-11ee-82d8-5f1521c30342": {
+"zh": "MultiOn 创始人谈自主网页 Agent 与 2024 前景",
+"desc": "Nathan 与 MultiOn 创始人 Div Garg 谈 AI Agent 现状、真实任务基准与个人机器人前景。"
+},
+"8d87bc0c-b58b-11ee-8fde-971cf3f963d0": {
+"zh": "用知识图谱与 AI 解锁企业数据：Juan Sequeda 谈企业大脑",
+"desc": "data.world 首席科学家 Juan Sequeda 与 Nathan 谈知识图谱如何充当企业 AI 大脑并整合多源数据。"
+},
+"14863954-b109-11ee-9e2d-6b799fbed858": {
+"zh": "AI CoScientist 如何用自然语言加速化学科研",
+"desc": "CMU 教授 Gabe Gomes 与 Nathan 谈 Coscientist 如何用自然语言设计化学实验并普及科学知识。"
+},
+"de6cc55e-aea6-11ee-a714-0bed97b6285a": {
+"zh": "Dialpad 用 AI 重塑商业通信：50 亿分钟通话训练自有模型",
+"desc": "Dialpad 的 Dan O'Connell 与 Nathan 谈用 50 亿分钟通话训练模型及企业 AI 落地挑战。"
+},
+"30824da0-ab46-11ee-87f9-33951d8e57f4": {
+"zh": "Shane Legg 谈 2028 AGI、新架构与超级智能模型对齐",
+"desc": "DeepMind 联合创始人 Shane Legg 谈 AGI 时间线、新架构与多模态里程碑。"
+},
+"50448cf2-a9e8-11ee-84d2-173d170a0002": {
+"zh": "前沿神经技术：Nita Farahany 谈脑机接口、隐私与认知影响",
+"desc": "神经伦理学者 Nita Farahany 与 Luisa Rodriguez 谈神经技术现状及对工作、医疗、隐私与认知的影响。"
+},
+"843e642c-a698-11ee-9df4-47f324962727": {
+"zh": "AGI 与制度颠覆：Sam Hammond 谈经济、政府与权力结构变革",
+"desc": "未来生命研究所播客中，Samuel Hammond 与 Gus Docker 讨论 AGI 将如何改变经济、政府、机构和其他权力结构。"
+},
+"6b4fcc34-a46e-11ee-a059-e323ecc51de4": {
+"zh": "Nathan 谈 AI 侦察、OpenAI 安全记录与前沿模型红队测试",
+"desc": "Nathan 与 Rob Wiblin 谈 AI 侦察、OpenAI 安全记录与前沿模型红队测试。"
+},
+"68943b2c-a06a-11ee-88c9-2371b45a5fcd": {
+"zh": "紧急播客：Mamba、记忆机制与状态空间模型的时刻",
+"desc": "Nathan 紧急深挖 Mamba 这一新型状态空间模型架构，讨论其记忆机制、效率优势与对 Transformer 的潜在冲击。"
+},
+"3968de90-9f7d-11ee-b7af-f7d863c5bb29": {
+"zh": "把 ChatGPT 当作思维副驾驶：Nathan 谈提示技巧与认知协作",
+"desc": "Nathan 与 Every 的 Dan Shipper 谈创意与认知劳动的提示技巧，以及副驾驶而非委托模式。"
+},
+"17cbee78-9b7a-11ee-8d82-2394e9bfb1c7": {
+"zh": "Apollo Research 研究：AI 欺骗、可解释性与可供性",
+"desc": "Apollo Research CEO Marius Hobbhahn 与 Nathan 讨论 AI 欺骗行为、可解释性研究和可供性等方向的最新发现。"
+},
+"ab05a2b0-9922-11ee-a8f5-db84f8aeaf34": {
+"zh": "Balaji Srinivasan 谈多神教 AI、人机共生与 AI 控制",
+"desc": "投资人、《网络国家》作者 Balaji Srinivasan 与 Nathan 探讨多神教式 AI、人机共生以及如何控制 AI。"
+},
+"a01b30a2-964f-11ee-8786-57c08b796312": {
+"zh": "Hume CEO Alan Cowen 谈如何打造具备情感感知能力的 AI",
+"desc": "Hume AI CEO 兼首席科学家 Alan Cowen 与 Nathan 讨论情感智能 AI 的构建思路与应用前景。"
+},
+"c718f210-954c-11ee-a0d4-63ae71a7f7be": {
+"zh": "PIBBSS 联合创始人 Nora Ammann：从生物与社会系统学习 AI",
+"desc": "PIBBSS 联合创始人 Nora Ammann 与 Nathan 讨论如何借鉴生物和社会系统中的智能原理来理解 AI。"
+},
+"bde8c988-912b-11ee-b1df-7378aa73a3b2": {
+"zh": "Imbue CTO Josh Albrecht 谈打造可推理、可靠、鲁棒的 AI Agent",
+"desc": "Imbue CTO Josh Albrecht 与 Nathan 讨论如何构建在推理、可靠性和鲁棒性上都过硬的 AI Agent。"
+},
+"2fcdadfa-8e45-11ee-9eb1-7f68bc38cba9": {
+"zh": "Vercel CEO Guillermo Rauch 谈 AI 编程、Software 2.0 与开源之争",
+"desc": "Vercel CEO Guillermo Rauch 与 Nathan 探讨 AI 如何重塑编程、Software 2.0 的含义以及 AI 开源问题。"
+},
+"a8148242-8897-11ee-aa90-6fc073b74f0e": {
+"zh": "Sam Altman 被 OpenAI 解职：董事会决策的内部视角与安全隐忧",
+"desc": "曾参与 GPT-4 红队的 Nathan 结合自身经历，谈 Sam Altman 被 OpenAI 解职的经过与董事会对安全问题的处理。"
+},
+"40234e06-856e-11ee-908e-c36428518b0f": {
+"zh": "AI 舆论乱象：评估大模型泛化能力与两极化的监管争论",
+"desc": "Nathan 与 Erik 讨论 Google DeepMind 关于大模型泛化的研究、Hemant Taneja 的责任投资承诺以及 AI 监管之争。"
+},
+"cc0fd5b8-8282-11ee-ae57-53cb732101a9": {
+"zh": "Gretel AI 创始人 Alex Watson 谈合成数据的价值与隐私技术",
+"desc": "Gretel AI 创始人兼 CPO Alex Watson 与 Nathan 讨论合成数据的必要性、零样本表格大模型及防止模型记忆的隐私技术。"
+},
+"66d2637a-7eb6-11ee-a8f9-3b5fe298b845": {
+"zh": "OpenAI 投资 500 万美元押注自动驾驶：对话 Ghost Autonomy 联合创始人 John Hayes",
+"desc": "自动驾驶公司 Ghost 联合创始人兼 CEO John Hayes 谈用多模态大模型解决自动驾驶问题，以及 OpenAI 的这笔投资。"
+},
+"2fe10080-7dce-11ee-a7db-3b62d3144d6b": {
+"zh": "OpenAI DevDay 深度解读：与开发者关系负责人 Logan Kilpatrick 对谈",
+"desc": "OpenAI 开发者关系负责人 Logan Kilpatrick 与 Nathan 深入拆解 DevDay 发布内容，聊到新闻标题之外的关键细节。"
+},
+"60713b40-79ee-11ee-9634-0345d97902ab": {
+"zh": "Lindy AI 创始人 Flo Crivello 谈拜登行政令与 AI 安全现状",
+"desc": "Lindy AI 创始人 Flo Crivello 与 Nathan 讨论拜登 AI 行政令、AI 安全现状以及构建 AGI 紧急关停机制的思路。"
+},
+"23dfa068-76c9-11ee-b57b-bbde423ff25d": {
+"zh": "历史学家用硬核 AI：GPT-4 推理微调 GPT-3.5 如何突破档案研究瓶颈",
+"desc": "威尔弗里德·劳里埃大学历史学教授马克·汉弗莱斯讲述，用 GPT-4 推理微调 GPT-3.5 如何帮他突破档案研究障碍。"
+},
+"f8c01f9e-73c5-11ee-be53-a76c4c060509": {
+"zh": "BabyAGI 作者中岛洋平谈 AI Agent、风投洞见与公开构建实践",
+"desc": "BabyAGI 作者、Untapped Capital 普通合伙人中岛洋平与 Nathan 聊 AI Agent、投资洞见、公开构建，以及 AI 如何强化人类理解。"
+},
+"12b0b6d6-7216-11ee-9b5f-a362641c90fc": {
+"zh": "Chroma 联创谈 RAG 与语义存储：为何检索闭环必须留在内部",
+"desc": "Chroma 联合创始人 Anton Troynikov 与 Nathan 讨论 RAG 闭环、语义存储检索、战时状态，以及从未入库的新数据。"
+},
+"72c2f922-6ec8-11ee-ac8e-df5589d2f92b": {
+"zh": "Transformer 未来 Part 2：Trey Kollmer 谈省下全球算力、类比提示与压缩记忆",
+"desc": "Trey Kollmer 返场与 Nathan 盘点最新 AI 研究：如何省下全球 10% 算力、类比提示胜过少样本提示、压缩历史记录增强 LLM 记忆。"
+},
+"cc40a898-6de5-11ee-968f-630b69cd3d64": {
+"zh": "Transformer 未来上篇：H100 芯片将如何给 GPT-4 级算力程序提速并盘点最新 AI 研究",
+"desc": "Trey Kollmer 与 Nathan 盘点微软 STOP、谷歌 FreshLLMs、H100 芯片前景，并讨论 GPT-4 级算力程序、LLM 时空表征等最新研究进展。"
+},
+"0c69d3d6-6977-11ee-b833-43b58ef19639": {
+"zh": "AI 球探报告：越狱攻击与防御，从机制可解释性到 Anthropic 和 OpenAI 对策",
+"desc": "Nathan Labenz 独自主讲，梳理近期机制可解释性与 AI 安全研究、Anthropic 和 OpenAI 的防御思路，以及 Calvin and Hobbes 越狱案例。"
+},
+"de2cd098-66ee-11ee-9dfe-47b9318473af": {
+"zh": "Sudowrite 创始人 James Yu 谈 AI 如何辅助并增强小说写作与创作流程",
+"desc": "Sudowrite 创始人 James Yu 与 Nathan 聊从用 GPT-3 写小说到打造 AI 写作伙伴，以及技术栈开发和外界反弹经历。"
+},
+"5ca8fb78-633d-11ee-8bb0-db7ccb17c6d8": {
+"zh": "Latent Space 的 Swyx 谈 AI 工程师工具、OpenAI 等基础模型商与开发者的竞合",
+"desc": "Latent Space 的 Swyx 与 Nathan 聊 AI 工程师该关注哪些工具、OpenAI 等基础模型商与开发者的竞合，以及 AI 魂器。"
+},
+"3222f098-6199-11ee-a5a1-0349ffd451af": {
+"zh": "Perplexity CEO Aravind Srinivas 谈 AI 搜索日查询增长、常用场景与挑战 Google 并快速迭代",
+"desc": "Perplexity CEO Aravind Srinivas 重返节目，聊日查询量增长、他爱用的场景，以及在 Google 和巨头自研搜索夹击下快速迭代。"
+},
+"ae4d5d38-5f15-11ee-be73-1fc48104160d": {
+"zh": "Zvi Mowshowitz 谈 OpenAI、亚马逊投资 Anthropic 与罗马帝国式软件捆绑及深度伪造",
+"desc": "Don't Worry About the Vase 作者 Zvi Mowshowitz 与 Nathan 聊 OpenAI、亚马逊投资 Anthropic、Google DeepMind、Perplexity、深度伪造、软件捆绑、罗马帝国类比及 AI 竞争格局等话题。"
+},
+"c133bf42-5c21-11ee-9726-0b783c7c44ce": {
+"zh": "Nathan 与 Erik 谈 OpenAI 微调更新：用 GPT-4 输出训练 GPT-3.5 与加速争论及 AI 服务捆绑",
+"desc": "Nathan Labenz 与 Erik 讨论 OpenAI GPT-3.5 微调更新、用 GPT-4 输出训练 GPT-3.5、何时该加速，以及 AI 服务和模型捆绑策略等话题。"
+},
+"94cf391e-5987-11ee-bb92-7bec22280e0e": {
+"zh": "卡内基梅隆研究者谈通用越狱：对抗攻击、模仿初始化与短期长期风险",
+"desc": "Zico Kolter、Andy Zou 与 Asher Trockman 与 Nathan 讨论语言模型通用对抗攻击的原理、短期危害、长期风险及防御难点等。"
+},
+"cb4f3f08-5698-11ee-8c12-db86ca333d70": {
+"zh": "AI 安全公司 Arthur.ai CEO 谈 LLM 时代的企业优先级与攻防变化",
+"desc": "Nathan 与 Arthur.ai CEO Adam Wenchel 聊 AI 安全创业、LLM 采用中的企业优先级变化及攻防面。"
+},
+"8bd0b24a-534f-11ee-b247-2ff69bc7392c": {
+"zh": "Waymark 团队谈 AI 短片制作：DALL-E 生成、动画化与 AI 艺术现状",
+"desc": "Nathan 与 Waymark 的 Stephen Parker、Josh Rubin 复盘 12 分钟 AI 短片 The Frost 的创作与提示技巧。"
+},
+"369e9a20-51a7-11ee-b89c-0b4cd48b58e3": {
+"zh": "WGA 编剧 Trey Kollmer 谈好莱坞罢工与 AI 如何改变表演职业",
+"desc": "Trey Kollmer 返场，与 Nathan 聊 SAG-AFTRA 与 WGA 罢工进展、演员为何加入及 AI 对表演的影响。"
+},
+"a874fed2-4d38-11ee-bfa0-cb4dd0ca2ca3": {
+"zh": "a16z 与 Convex 谈 AI Town：让 AI Agent 在小镇生活与社交",
+"desc": "Yoko Li、Martin Casado 与 James Cowling 讲述 AI Town 起源、LLM 不可预测性及 Agent 社交实验。"
+},
+"c53a7646-4bb2-11ee-9a37-8ffef36d8e65": {
+"zh": "伊利诺伊教授 Daniel Kang 谈零知识证明如何重塑 AI 数据隐私",
+"desc": "Nathan 与 Daniel Kang 聊零知识密码学证明在 AI 中的应用，以及如何平衡数据隐私与真实性。"
+},
+"e4c4beb0-481d-11ee-9d3e-5bbaf0ff4ef9": {
+"zh": "Hugging Face 2.35 亿美元 D 轮：社区护城河与 45 亿估值分析",
+"desc": "Nathan 与 Erik 分析 Hugging Face 的 2.35 亿美元 D 轮、社区业务护城河、45 亿估值与竞争格局。"
+},
+"89189e32-460c-11ee-ae59-ebae2a037066": {
+"zh": "Paige Bailey 谈 PaLM 2：LLM 产品管理与推理能力真伪",
+"desc": "Google DeepMind 生成模型产品负责人 Paige Bailey 聊做 LLM 产品经理、定义理想行为与辨别推理。"
+},
+"d81cf7aa-430d-11ee-9bbd-939359f88c51": {
+"zh": "OpenAI GPT-3.5 Turbo 与 AI 现状：编程、教育与医疗盘点",
+"desc": "Nathan 与 Erik 分析 GPT-3.5 Turbo、对比 Llama2，并讨论 AI 在编程、教育与医疗的落地。"
+},
+"758ece1c-4171-11ee-8473-df7b630bf46c": {
+"zh": "谷歌 Med-PaLM M 团队谈医疗多模态 AI：临床超人能力、局限与验证",
+"desc": "Vivek Natarajan 与 Tao Tu 介绍 Med-PaLM M 如何用大规模医疗数据训练，并讨论其能力与局限。"
+},
+"21d1077c-3d02-11ee-9f6d-3f6b77435b1b": {
+"zh": "Gamma 联合创始人 Jon Noronha 谈演示革命：AI 生成与 A/B 测试",
+"desc": "Nathan 与 Gamma 联合创始人 Jon Noronha 聊打造 AI 演示工具、引导模型产出好内容与 AI A/B 测试。"
+},
+"d9b023e2-38b0-11ee-88e3-0b1726e3a6c9": {
+"zh": "可汗学院工程总监谈 GPT-4 苏格拉底式导师 Khanmigo 与教育 AI",
+"desc": "Shawn Jansepar 讲述可汗学院与 OpenAI 合作，用 GPT-4 微调打造 AI 导师 Khanmigo 及其影响。"
+},
+"593f4388-374c-11ee-b31d-e7288b97bee1": {
+"zh": "AI 进展月度盘点：更新 Scouting Report、任务自动化与谷歌突破",
+"desc": "Nathan 与 Erik 回顾近月 AI 进展，更新 Scouting Report，谈任务自动化与谷歌研究突破。"
+},
+"9396180e-363e-11ee-a64c-1f56a9c0710e": {
+"zh": "Replit AI 副总裁谈自研模型与面向 AGI 的开发基座",
+"desc": "Replit AI 副总裁 Michele Catasta 与 Nathan 聊 AI 开发现状报告、公司自研模型，以及为何 Replit 被视为 AGI 的理想基座。"
+},
+"35c3abd2-32c0-11ee-804f-13e96c494610": {
+"zh": "Replit 产品设计师谈 AI 时代的软件开发与 Agent 设计",
+"desc": "Replit 产品设计师 Tyler Angert 与 Nathan 讨论 AI 驱动的软件开发未来、Bot 之间的交互，以及 AI Agent 的设计与伦理考量。"
+},
+"9fcef4f8-30e7-11ee-93cb-bf3b75a78ca2": {
+"zh": "Zvi 复盘 OpenAI、Anthropic 与 Meta 的 AI 前沿进展",
+"desc": "Don't Worry About the Vase 作者 Zvi Mowshowitz 与 Nathan 逐家分析各大 AI 玩家，并争论模型是否已达优秀本科毕业生的智力水平。"
+},
+"eaaa9134-2c3d-11ee-ae1f-831df1daf2a6": {
+"zh": "机制可解释性自动化：Arthur Conmy 谈 ACDC 与模型子电路",
+"desc": "可解释性研究者 Arthur Conmy 与 Nathan 聊如何定位 Transformer 内部子电路，并介绍其自动化的 ACDC 新方法。"
+},
+"ff09f8a6-2ab5-11ee-9e4c-cf1048a30c64": {
+"zh": "Run:ai 联合创始人谈 GPU 最大化利用：算力饥渴与地缘风险",
+"desc": "Run:ai 的 CTO 兼联合创始人 Ronen Dar 与 Nathan 聊企业如何优化 GPU 使用、芯片厂商的供给难题与算力获取策略。"
+},
+"bb0a0be2-2604-11ee-a904-972f48e6c101": {
+"zh": "AI 侦察报告第二讲：落地趋势与真实世界中的 AI 应用",
+"desc": "Nathan 用 90 分钟梳理 AI 近期的落地趋势与实践场景，目标是把听众带到高中 AP 课程级别的理解，并配幻灯片在 YouTube 播出。"
+},
+"4e215432-2185-11ee-935f-535496d95217": {
+"zh": "MULTI·ON 创始人谈个人 AI Agent：浏览器副驾的产品与安全",
+"desc": "MULTI·ON 创始人 Div Garg 与 Nathan 聊个人 AI Agent 的产品路线、用自然语言定义技能，以及如何保障用户安全。"
+},
+"f794e482-1ffc-11ee-b4f3-0b368b731a7b": {
+"zh": "Zvi Mowshowitz 谈 AI 安全之争：从世界观到行业话语权",
+"desc": "Don't Worry About the Vase 作者 Zvi 与 Nathan 聊他的 AI 安全世界观、当前争论焦点，以及谁在 AI 讨论中真正有分量。"
+},
+"b26ac2de-1c1c-11ee-9ab3-eb149d38f189": {
+"zh": "AI 侦察报告第一讲：用 90 分钟把 AI 基础讲清楚",
+"desc": "Nathan 用一集 90 分钟的特别节目，尽可能简单直白地讲透 AI 的核心基础，相当于高中 AP 课程的入门理解水平。"
+},
+"5af4f542-1a0a-11ee-9295-33ba8cfc1332": {
+"zh": "Skydio 自治团队负责人谈无人机自主飞行与全美制造扩张",
+"desc": "Skydio 自治负责人 Hayk Martiros 与 Nathan 聊复杂自主飞行的技术前沿、融资扩产与无人机行业的走向。"
+},
+"f35691ec-17ad-11ee-a540-e7125c0f4299": {
+"zh": "Notion AI 的 Linus Lee 谈 AI 界面设计与提示工程",
+"desc": "Latent.space 主播与 Notion AI 的 Linus Lee 聊 AI 与 UX 社区的兴起、Notion 的提示工程实践以及 AI 界面和 Agent 设计。"
+},
+"f9402d68-169d-11ee-8456-fb54035336da": {
+"zh": "Meta AI 的 MEGABYTE：多尺度 Transformer 能否取代分词",
+"desc": "Meta AI 研究员 Lili Yu 与 Nathan 解读 MEGABYTE 论文：多尺度架构如何预测百万字节序列，并免去分词环节。"
+},
+"f9f5fc86-1505-11ee-8aeb-a3ecc0ea5b14": {
+"zh": "MIT刘子明谈脑启发模块化训练：让神经网络可视可解释",
+"desc": "MIT物理博士生刘子明介绍BIMT方法，通过模块化训练让神经网络结构更可视化、更可解释。"
+},
+"949b3d9e-0f72-11ee-9d35-d3a4ed8216cb": {
+"zh": "19岁博士亚伯拉罕谈虚拟活检：AI如何辅助活体肿瘤手术",
+"desc": "医学AI研究者亚伯拉罕介绍深度学习驱动的虚拟活检技术，及其在活体肿瘤切除手术中的潜力。"
+},
+"a0e1d6de-0f7d-11ee-848d-9fe56a4dc572": {
+"zh": "19岁博士亚伯拉罕谈读心术：用AI重建大脑所见图像",
+"desc": "生物医学工程博士亚伯拉罕分享MedARC的脑图像重建研究，探讨AI解码视觉想象的突破与边界。"
+},
+"5a581e26-0c53-11ee-b831-5bdc476371f7": {
+"zh": "MosaicML弗兰克尔谈定制大模型：推理平台与长上下文写作",
+"desc": "MosaicML首席科学家弗兰克尔与研究科学家维尼加拉聊定制LLM、客户用例、新推理平台和长上下文写作模型。"
+},
+"7684d300-0a00-11ee-a12a-fbad8f787e6b": {
+"zh": "Stability AI莫斯塔克与莱辛：AI投资是否值得风投下注",
+"desc": "Stability AI创始人莫斯塔克与Slow Ventures的莱辛讨论AI投资逻辑，涉及注意力经济、SaaS市场与生成内容。"
+},
+"849f2b82-0674-11ee-9fd3-ab83879006d5": {
+"zh": "DoNotPay创始人布劳德谈机器人律师：消费者维权与AI监管",
+"desc": "机器人律师公司DoNotPay创始人布劳德聊AI在法律服务中的现状、消费者使用伦理与政策监管重点。"
+},
+"ba30cdd8-047f-11ee-a0a1-234c5777d576": {
+"zh": "微软埃尔丹与李远志谈TinyStories：小数据如何揭示语言模型能力",
+"desc": "微软研究员介绍TinyStories小规模自然语言数据集，用有限算力研究语言模型的能力、行为与涌现现象。"
+},
+"680351f6-0179-11ee-a281-5bef084f2628": {
+"zh": "AI Breakdown解读OpenAI过程奖励模型：能否兼顾数学与对齐",
+"desc": "转载AI Breakdown节目，解读OpenAI新功能、网络安全资助计划，以及过程奖励模型对数学与对齐的意义。"
+},
+"d523a8c2-0029-11ee-aa9c-2bbc40b9428d": {
+"zh": "AI护城河在哪里：拉本茨与托伦伯格拆解大厂与开源竞争",
+"desc": "Nathan Labenz与Erik Torenberg分析AI巨头与开源社区的竞争优势，讨论模型、数据、算力和分发等护城河。"
+},
+"44331fb0-fe8e-11ed-8ce3-63635b5afa5d": {
+"zh": "好莱坞编剧罢工中的AI焦虑：三位WGA编剧谈生成式技术冲击",
+"desc": "三位美国编剧工会成员结合罢工背景，讨论AI对影视编剧岗位、创作流程与劳资谈判的实际影响。"
+},
+"522fadda-fb15-11ed-9807-279c78771047": {
+"zh": "Cerebras CEO费尔德曼谈AI芯片：2.6万亿晶体管晶圆级芯片",
+"desc": "Cerebras联合创始人费尔德曼讲述创业历程、打造全球最大芯片的挑战，以及AI算力硬件的未来。"
+},
+"c7ffd1cc-f96f-11ed-9cc2-5f3eb244cc4e": {
+"zh": "Guardrails AI拉杰帕尔谈给大模型加护栏：让输出可靠可控",
+"desc": "工程师拉杰帕尔介绍Guardrails AI库，讨论如何校验和纠正LLM输出，并连接传统确定性软件系统。"
+},
+"8927ba8c-f5b9-11ed-a486-c33e92b131a0": {
+"zh": "谷歌医疗大模型 Med-PaLM 与 Med-PaLM2：Vivek Natarajan 谈开发思路与临床前景",
+"desc": "谷歌 Health 研究科学家 Vivek Natarajan 讲述 Med-PaLM 前身的基础模型、开发技术与医疗大模型的落地挑战。"
+},
+"0a73b372-f65d-11ed-a2e7-4326458a8e8a": {
+"zh": "Conjecture CEO Connor Leahy：GPT-4、认知仿真与超级智能对齐",
+"desc": "未来生命研究所播客主持人 Gus Docker 与 Conjecture 创始人 Connor Leahy 讨论 GPT-4、认知仿真与 AGI 风险。"
+},
+"66f21370-f395-11ed-9a99-e7ef1cd7c225": {
+"zh": "用 AI 重塑基层医疗：Curai Health 创始人 Neal Khosla 谈虚拟问诊",
+"desc": "Nathan 与 Erik 对谈 Curai Health 创始人 Neal Khosla，聊 AI 在医疗的现状、低成本线上诊疗与未来就医体验。"
+},
+"1449bfe2-f007-11ed-824b-4feb4ccf052e": {
+"zh": "哈佛医学院 Kohane 教授：提前试用 GPT-4 后的医学实践与教育",
+"desc": "哈佛医学院生物医学信息学系主任 Zak Kohane 讲述 2022 年提前接触 GPT-4 的经历及其对医疗的判断。"
+},
+"26d5882a-ee96-11ed-bed3-33cd7a889c38": {
+"zh": "AI 浪潮下的前线侦察：Robert Scoble 与 Ben Tossell 谈如何跟上进展",
+"desc": "科技观察者 Robert Scoble 与 Ben's Bites 作者 Ben Tossell 聊 AI 侦察工作、如何带大众跟上变化与各自预测。"
+},
+"538383ca-ea29-11ed-af98-d77a395c267d": {
+"zh": "企业到底该怎么用 AI：The AI Exchange 创始人 Rachel Woods 谈策略与落地",
+"desc": "The AI Exchange 创始人、前 Meta 数据科学家 Rachel Woods 讲企业 AI 战略咨询经验，以及自己业务中的 AI 用法。"
+},
+"a3fa1566-e903-11ed-b1c4-7b5f87dbebac": {
+"zh": "AI 投资的钱会落在哪里：Sarah Guo 与 Elad Gil 谈技术栈上的价值分配",
+"desc": "投资人 Sarah Guo 与 Elad Gil 分享当下 AI 投资思路、与过去的不同，以及从硬件到应用的价值积累位置。"
+},
+"ffcb7898-e512-11ed-a56d-fb5b784a7d2c": {
+"zh": "从 API 到真正上线：Humanloop CEO Raza Habib 谈大模型落地的最后一公里",
+"desc": "Humanloop 创始人兼 CEO Raza Habib 讲述帮助各类企业部署 LLM 的经验，从拿到 API 到上线产品的完整路径。"
+},
+"c55e0d0a-e310-11ed-b032-83eb8bff9ca4": {
+"zh": "AI Agent 革命：Fixie.ai 创始人 Matt Welsh 谈智能体平台与软件未来",
+"desc": "前哈佛教授、Fixie.ai CEO Matt Welsh 聊 AI Agent 的最新进展、平台开发者预览以及智能体将如何改变软件。"
+},
+"7b4c17a0-df8e-11ed-b564-0327e3f9f6d6": {
+"zh": "越狱 ChatGPT 是一种公共品：22 岁大学生 Alex Albert 谈提示词攻防",
+"desc": "华盛顿大学学生、Jailbreakchat.com 创建者 Alex Albert 首次做客播客，聊越狱的公共价值与提示词工程实践。"
+},
+"6d2d3b08-ddff-11ed-bf88-e3b318c0d244": {
+"zh": "提示词工程革命：Scale AI 首位专职提示工程师 Riley Goodside 谈 LLM 应用",
+"desc": "Scale AI 首位 Staff 提示工程师 Riley Goodside 讲述提示大模型的方法，以及把 LLM 整合进 AI 产品的经验。"
+},
+"a2fa9c34-d9b4-11ed-b23b-53f5d67b5dc2": {
+"zh": "该不该暂停 AI 研发：Skype 联合创始人 Jaan Tallinn 谈存在风险与投资",
+"desc": "企业家与投资人 Jaan Tallinn 聊 AI 暂停之争、长期存在风险，以及他为何押注 DeepMind 与多家对齐实验室。"
+},
+"89b95594-d815-11ed-aa78-63e20e69a464": {
+"zh": "GPT-4 跨越阈值后，经济转型与未来工作将走向何方",
+"desc": "Nathan Labenz 与 Erik Torenberg 讨论 GPT-4 越过关键门槛后，经济转型与未来工作的走向。"
+},
+"653639d2-d499-11ed-b618-b3ecadf17f0a": {
+"zh": "Ought 联合创始人谈推理革命与 Elicit 的 AI 研究助手之路",
+"desc": "Ought 的 Jungwon Byun 与 Andreas Stuhlmüller 谈推理革命，以及 Elicit 如何用 AI 加速科研。"
+},
+"69c90a58-d294-11ed-bc20-037a664ac5fc": {
+"zh": "AI 公开信之争：暂停派、加速派与人类对 AI 的深层恐惧",
+"desc": "Chroma 的 Anton Troynikov 与 Lindy AI 的 Flo Crivello 做客，辩论 AI 公开信、六个月暂停与 AI 恐惧。"
+},
+"7f7c603a-ce79-11ed-8657-db1743a37cee": {
+"zh": "谷歌机器人研究员谈机器人革命：训练、语言指令与安全",
+"desc": "谷歌机器人研究员 Keerthana Gopalakrishnan 与 Nathan Labenz 谈机器人训练、语言指令与安全。"
+},
+"1539aaea-cda5-11ed-b368-9b80e6dd0840": {
+"zh": "GPT-4 深度讨论：红队成员视角下的人类级智能与隐忧",
+"desc": "GPT-4 红队成员 Nathan Labenz 与 Erik Torenberg 讨论模型能力、真实场景表现、人类级智能与风险。"
+},
+"0b8c0982-c9f6-11ed-9b82-fb9900bd0388": {
+"zh": "Play.ht 创始人谈 AI 语音革命：超真实人声、深度伪造与安全",
+"desc": "Play.ht 创始人 Mahmoud Felfel 与主持讨论文本转语音模型、超真实人声、深度伪造与用户安全。"
+},
+"47ac62f3-a63a-4953-89aa-7bc217cce316": {
+"zh": "Lindy.AI 创始人谈 AI 助手革命与未来工作",
+"desc": "Lindy.AI 创始人 Flo Crivello 在发布日与 Nathan 谈 AI 助手能力、单用途应用及未来工作影响。"
+},
+"392b614b-2376-49ed-8501-52ab6109be83": {
+"zh": "GPT-4 冲击波：中美竞速、政策经济与 AI 安全挑战",
+"desc": "Nathan Labenz 做客 ChinaTalk，与 Jordan Schneider 等谈 GPT-4 对政策、经济、社会与中美 AI 竞速的影响。"
+},
+"0303d587-b993-40ca-88c6-f4574a723d0b": {
+"zh": "Perplexity AI 创始人谈搜索求真：挑战巨头与产品哲学",
+"desc": "Perplexity AI 创始人 Aravind Srinivas 谈如何挑战科技巨头、产品哲学，以及最大化单位时间用户价值。"
+},
+"ee17e2d6-3405-42ff-9a68-b1213517e50b": {
+"zh": "BLIP 作者谈计算机视觉革命：图像描述与视觉语言突破",
+"desc": "BLIP 与 BLIP2 作者 Junnan Li、Dongxu Li 与主持谈图像描述、视觉语言任务突破及开源影响。"
+},
+"72bba69c-b634-47c9-9ccb-4ff3ae84ace1": {
+"zh": "Chroma 创始人谈嵌入革命、稳定归因与 AI 未来",
+"desc": "Chroma 的 Anton Troynikov 谈向量数据库优势、嵌入如何重塑 AI 原生表示，以及 Stable Attribution。"
+},
+"8badcdab-0d58-4153-86b3-a9ccd8028f81": {
+"zh": "AI 时刻圆桌：Replit、Lindy 与多位创业者激辩 AGI 与炒作",
+"desc": "Amjad Masad、Flo Crivello、Dan Romero 与 Antonio 等辩论 AI 时刻、AGI 前景与炒作。"
+},
+"c2521ffa-7419-40a0-9348-01d0da17446e": {
+"zh": "Replika 创始人 Eugenia Kuyda 谈 AI 共情革命与情欲角色扮演限制争议",
+"desc": "Replika 创始人 Eugenia Kuyda 与主持人探讨 AI 伴侣如何引发共情革命，以及为何限制情欲角色扮演功能引发争议。"
+},
+"91d53927-bf99-42e5-85b1-ef470c233d10": {
+"zh": "Nathan Labenz 与 Erik Torenberg 深入探讨 AI 为何将引发认知革命以及 Waymark 创业经历",
+"desc": "Nathan Labenz 与 Erik Torenberg 探讨 AI 为何将引发认知革命，分享 Nathan 从创办 Waymark 到投身 AI 的创业历程，以及对未来 AI 发展的展望。"
+},
+"771c42aa-c3e3-4789-853b-1fb150866f35": {
+"zh": "Playground AI 创始人 Suhail Doshi 谈像素革命与图像技术突破及创业历程",
+"desc": "Playground AI 创始人 Suhail Doshi 与主持人探讨图像技术突破如何引发像素革命，以及他的 AI 创业之路。"
+}
+}
