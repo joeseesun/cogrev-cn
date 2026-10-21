@@ -4,19 +4,19 @@
 
 ![Cognitive Revolution 中文精读首页](docs/screenshots/home.png)
 
-> 把 Cognitive Revolution 全部 387 期节目做成一个可以认真读的中文站：每期一个页面，中文标题与简介、节目音频与视频、英文文稿，以及 387 篇 AI 改写的中文长文精读。
+> 把 Cognitive Revolution 全部 388 期节目做成一个可以认真读的中文站：每期一个页面，中文标题与简介、节目音频与视频、英文文稿，以及 388 篇 AI 改写的中文长文精读。
 >
-> A Chinese reading companion for **"The Cognitive Revolution" | AI Builders, Researchers, and Live Player Analysis** — every episode gets its own page with a Chinese title and summary, audio, video, transcript, and (for 387 episodes so far) a long-form Chinese deep read.
+> A Chinese reading companion for **"The Cognitive Revolution" | AI Builders, Researchers, and Live Player Analysis** — every episode gets its own page with a Chinese title and summary, audio, video, transcript, and (for 388 episodes so far) a long-form Chinese deep read.
 
 [**在线访问 cogrev.qiaomu.ai**](https://cogrev.qiaomu.ai/) · [RSS 全文订阅](https://cogrev.qiaomu.ai/feed.xml) · [单集目录](https://cogrev.qiaomu.ai/archive/) · [llms.txt](https://cogrev.qiaomu.ai/llms.txt) · [MIT License](LICENSE)
 
-**已验证：** `python3 scripts/sitegen/build.py` 本地完整构建 387 个单集页 · 线上 https://cogrev.qiaomu.ai/ 已部署
+**已验证：** `python3 scripts/sitegen/build.py` 本地完整构建 388 个单集页 · 线上 https://cogrev.qiaomu.ai/ 已部署
 
 ## 这是什么
 
 Cognitive Revolution 由创业者、AI 投资人 Nathan Labenz 主持，聚焦 AI 研究者与建造者：模型能力评测、AI 安全、Agent 与行业应用，每期都把技术细节聊透，并配有定期的 AI 前沿扫描。
 
-这个仓库是它的非官方中文站点 **[cogrev.qiaomu.ai](https://cogrev.qiaomu.ai/)** 的全部源码与中文内容：一个零依赖的静态站生成器，加上节目元数据、387 期中文标题翻译和 387 篇中文精读。
+这个仓库是它的非官方中文站点 **[cogrev.qiaomu.ai](https://cogrev.qiaomu.ai/)** 的全部源码与中文内容：一个零依赖的静态站生成器，加上节目元数据、388 期中文标题翻译和 388 篇中文精读。
 
 ## 核心能力
 
@@ -103,8 +103,8 @@ scripts/sitegen/static/        共用前端脚本、结构样式与各站主题�
 
 **Cognitive Revolution 中文精读** is an unofficial Chinese reading companion for *"The Cognitive Revolution" | AI Builders, Researchers, and Live Player Analysis* (hosted by Nathan Labenz), live at **https://cogrev.qiaomu.ai/**.
 
-- **387 episodes**, each with a Chinese title and summary, audio player with resume, YouTube embed, and English transcript where available.
-- **387 long-form Chinese deep reads** with a magazine-grade reading experience: section numbering, pull quotes, drop caps, a reading-settings panel (3 themes, 5 open-source Chinese fonts, size / leading / measure / indent), a centered table of contents and reading progress.
+- **388 episodes**, each with a Chinese title and summary, audio player with resume, YouTube embed, and English transcript where available.
+- **388 long-form Chinese deep reads** with a magazine-grade reading experience: section numbering, pull quotes, drop caps, a reading-settings panel (3 themes, 5 open-source Chinese fonts, size / leading / measure / indent), a centered table of contents and reading progress.
 - **Search** with normalization, multi-term matching, ranking and highlighting; **continue listening / reading**; **full-text RSS**.
 - **SEO / GEO**: server-rendered first screen, `Article` + `PodcastEpisode` JSON-LD, a Markdown version of every deep read, `llms.txt`, sitemap, AI crawlers welcome.
 - **Share cards** generated per episode (face-centered portrait crops, punctuation-aware balanced title wrapping), full **PWA** with offline reading, custom 404 and offline pages.
