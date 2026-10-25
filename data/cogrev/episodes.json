@@ -9,6 +9,18 @@
  },
  "episodes": [
   {
+   "id": "770651b2-cf9d-11f1-a1cf-fbc54476004a",
+   "title": "AI:AM Highlights: Clean Neurons, Black October, the GPU Credit Crunch, and Buying the Supply Chain",
+   "date": "2026-10-24",
+   "duration": 5391,
+   "description": "Hosts Nathan Labenz and Prakash Narayanan examine whether capital, physical infrastructure, or regulation will set the pace of artificial intelligence. Zvi Mowshowitz evaluates aggressive recursive self-improvement timelines pointing toward 2027, the oversold claims surrounding clean neural networks, and models learning to detect internal probes. SF Compute CEO Evan Conrad argues that credit availability rather than power or chips forms the true bottleneck in AI, while Cambrian managing partner Lonis Hamaili explains why the physical supply chain will capture more value than the labs. Together, these conversations highlight the structural constraints on model scaling and the real-world risks of agent-scale failures.\n\nFor full show notes, links, and references, read the episode page:https://www.cognitiverevolution.ai/ai-am-highlights-clean-neurons-black-october-the-gpu-credit-crunch-and-buying-the-supply-chain/\nSponsors:\n\nOutSystems: OutSystems is the leading agentic systems platform, helping enterprises build, modernize, and operate mission-critical applications at the speed of AI. Learn more and start owning your agentic future at https://outsystems.com/tcr\n\nParallel: Parallel provides enterprise-grade web search APIs for AI agents, offering the optimal balance of quality, speed, and cost. Get started for free at https://parallel.ai/tcr\n\nTasklet: Tasklet empowers your business with AI agents that connect to your tools and automate recurring workflows with no code required. Visit https://tasklet.ai and use code cog rev for $50 in free credits\n\nCHAPTERS:\n\n(00:00) Weekly episode preview\n\n(04:58) Recursive self improvement (Part 1)\n\n(09:54) Sponsors: OutSystems | Parallel\n\n(13:06) Recursive self improvement (Part 2)\n\n(13:06) Clean neural networks (Part 1)\n\n(26:25) Sponsor: Tasklet\n\n(28:03) Clean neural networks (Part 2)\n\n(28:03) The cognitive core\n\n(35:35) Black October security\n\n(41:52) The GPU credit crunch\n\n(51:58) Atoms over bits\n\n(01:03:53) Rethinking industry bottlenecks\n\n(01:10:31) Introducing HelpPeer agents\n\n(01:14:23) Leaked federal bill\n\n(01:25:59) Episode Outro\n\n(01:27:49) Outro\n\nPRODUCED BY:\n\nhttps://aipodcast.ing\n\nSOCIAL LINKS:\n\nWebsite: https://www.cognitiverevolution.ai\n\nTwitter (Podcast): https://x.com/cogrev_podcast\n\nTwitter (Nathan): https://x.com/labenz\n\nLinkedIn: https://linkedin.com/in/nathanlabenz/\n\nYoutube: https://youtube.com/@CognitiveRevolutionPodcast\n\nApple: https://podcasts.apple.com/de/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431\n\nSpotify: https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk",
+   "audio": "https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP5765821580.mp3",
+   "link": "https://www.cognitiverevolution.ai/ai-am-highlights-clean-neurons-black-october-the-gpu-credit-crunch-and-buying-the-supply-chain/",
+   "image": "https://megaphone.imgix.net/podcasts/770651b2-cf9d-11f1-a1cf-fbc54476004a/image/ac0ae4186d11a69ec5c9b2070a82036c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "epnum": null,
+   "ytId": null
+  },
+  {
    "id": "8b0057dc-cc2b-11f1-b014-23bf94aeb9cb",
    "title": "A World Model of Life: Biohub's Alex Rives on Virtual Cells, Measurement, & the $1.8B Data Push",
    "date": "2026-10-20",
