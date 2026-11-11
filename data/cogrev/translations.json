@@ -1570,5 +1570,9 @@
 "6344fcd0-dae4-11f1-9ce7-d7be8be82e29": {
 "zh": "AI加速警讯：Agent真钱押注选举、GPU二级交易及AI原生VC",
 "desc": "Nathan Labenz与Prakash Narayanan同Thoughtful、Luxor、Theory Ventures嘉宾聊AI加速、Agent押注选举、GPU交易与AI原生VC。"
+},
+"8d2f57ec-dc34-11f1-9b3c-3374c2ab7e91": {
+"zh": "Curt Tigges：智能体逆向解析大模型 MLP 单神经元",
+"desc": "Goodfire 的 Curt Tigges 讲解用自动化智能体检验大模型 MLP 单神经元的可解释性、单义性与逆向工程方法。"
 }
 }
