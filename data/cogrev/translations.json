@@ -1574,5 +1574,9 @@
 "8d2f57ec-dc34-11f1-9b3c-3374c2ab7e91": {
 "zh": "Curt Tigges：智能体逆向解析大模型 MLP 单神经元",
 "desc": "Goodfire 的 Curt Tigges 讲解用自动化智能体检验大模型 MLP 单神经元的可解释性、单义性与逆向工程方法。"
+},
+"8e5615bc-ddb9-11f1-a866-a31f48301512": {
+"zh": "思科Vijoy Pandey谈多智能体协作：语义对齐、意图协商与开放协议",
+"desc": "思科高管Vijoy Pandey谈多智能体协作，Scope、Accord、Concord协议如何应对语义错位与意图协商。"
 }
 }
